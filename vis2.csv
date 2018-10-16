@@ -1,31 +1,4 @@
 estado,situacao,votos,eleicao,ano,turno
-Rondônia,COMPARECIMENTO,417622, Nulos e brancos 1989 Turno 1,1989,1
-Acre,COMPARECIMENTO,140309, Nulos e brancos 1989 Turno 1,1989,1
-Amazonas,COMPARECIMENTO,626652, Nulos e brancos 1989 Turno 1,1989,1
-Roraima,COMPARECIMENTO,56045, Nulos e brancos 1989 Turno 1,1989,1
-Pará,COMPARECIMENTO,1627799, Nulos e brancos 1989 Turno 1,1989,1
-Amapá,COMPARECIMENTO,91937, Nulos e brancos 1989 Turno 1,1989,1
-Tocantins,COMPARECIMENTO,317901, Nulos e brancos 1989 Turno 1,1989,1
-Maranhão,COMPARECIMENTO,1466281, Nulos e brancos 1989 Turno 1,1989,1
-Piauí,COMPARECIMENTO,1074579, Nulos e brancos 1989 Turno 1,1989,1
-Ceará,COMPARECIMENTO,2811171, Nulos e brancos 1989 Turno 1,1989,1
-R. G. do Norte,COMPARECIMENTO,1118754, Nulos e brancos 1989 Turno 1,1989,1
-Paraíba,COMPARECIMENTO,1466880, Nulos e brancos 1989 Turno 1,1989,1
-Pernambuco,COMPARECIMENTO,3210571, Nulos e brancos 1989 Turno 1,1989,1
-Alagoas,COMPARECIMENTO,967803, Nulos e brancos 1989 Turno 1,1989,1
-Sergipe,COMPARECIMENTO,675060, Nulos e brancos 1989 Turno 1,1989,1
-Bahia,COMPARECIMENTO,4711197, Nulos e brancos 1989 Turno 1,1989,1
-Minas Gerais,COMPARECIMENTO,8399385, Nulos e brancos 1989 Turno 1,1989,1
-Espírito Santo,COMPARECIMENTO,1271472, Nulos e brancos 1989 Turno 1,1989,1
-Rio de Janeiro,COMPARECIMENTO,7641004, Nulos e brancos 1989 Turno 1,1989,1
-São Paulo,COMPARECIMENTO,17443260, Nulos e brancos 1989 Turno 1,1989,1
-Paraná,COMPARECIMENTO,4519095, Nulos e brancos 1989 Turno 1,1989,1
-Santa Catarina,COMPARECIMENTO,2523413, Nulos e brancos 1989 Turno 1,1989,1
-R. G. do Sul,COMPARECIMENTO,5362973, Nulos e brancos 1989 Turno 1,1989,1
-M. G. do Sul,COMPARECIMENTO,863491, Nulos e brancos 1989 Turno 1,1989,1
-Mato Grosso,COMPARECIMENTO,794124, Nulos e brancos 1989 Turno 1,1989,1
-Goiás,COMPARECIMENTO,1895879, Nulos e brancos 1989 Turno 1,1989,1
-Distrito Federal,COMPARECIMENTO,782751, Nulos e brancos 1989 Turno 1,1989,1
 Rondônia,ABSTENÇÃO,140159, Nulos e brancos 1989 Turno 1,1989,1
 Acre,ABSTENÇÃO,42488, Nulos e brancos 1989 Turno 1,1989,1
 Amazonas,ABSTENÇÃO,215431, Nulos e brancos 1989 Turno 1,1989,1
@@ -107,197 +80,34 @@ M. G. do Sul,VOTOS NULOS,30110, Nulos e brancos 1989 Turno 1,1989,1
 Mato Grosso,VOTOS NULOS,39030, Nulos e brancos 1989 Turno 1,1989,1
 Goiás,VOTOS NULOS,95220, Nulos e brancos 1989 Turno 1,1989,1
 Distrito Federal,VOTOS NULOS,18691, Nulos e brancos 1989 Turno 1,1989,1
-Rondônia,Fernando Collor PRN (PST-PSL),165607,Presidente,1989,Turno 1
-Acre,Fernando Collor PRN (PST-PSL),49862,Presidente,1989,Turno 1
-Amazonas,Fernando Collor PRN (PST-PSL),300848,Presidente,1989,Turno 1
-Roraima,Fernando Collor PRN (PST-PSL),32130,Presidente,1989,Turno 1
-Pará,Fernando Collor PRN (PST-PSL),793384,Presidente,1989,Turno 1
-Amapá,Fernando Collor PRN (PST-PSL),42255,Presidente,1989,Turno 1
-Tocantins,Fernando Collor PRN (PST-PSL),164964,Presidente,1989,Turno 1
-Maranhão,Fernando Collor PRN (PST-PSL),609758,Presidente,1989,Turno 1
-Piauí,Fernando Collor PRN (PST-PSL),383632,Presidente,1989,Turno 1
-Ceará,Fernando Collor PRN (PST-PSL),861030,Presidente,1989,Turno 1
-R. G. do Norte,Fernando Collor PRN (PST-PSL),326878,Presidente,1989,Turno 1
-Paraíba,Fernando Collor PRN (PST-PSL),457129,Presidente,1989,Turno 1
-Pernambuco,Fernando Collor PRN (PST-PSL),1066986,Presidente,1989,Turno 1
-Alagoas,Fernando Collor PRN (PST-PSL),554612,Presidente,1989,Turno 1
-Sergipe,Fernando Collor PRN (PST-PSL),301730,Presidente,1989,Turno 1
-Bahia,Fernando Collor PRN (PST-PSL),1408614,Presidente,1989,Turno 1
-Minas Gerais,Fernando Collor PRN (PST-PSL),2801422,Presidente,1989,Turno 1
-Espírito Santo,Fernando Collor PRN (PST-PSL),468910,Presidente,1989,Turno 1
-Rio de Janeiro,Fernando Collor PRN (PST-PSL),1189385,Presidente,1989,Turno 1
-São Paulo,Fernando Collor PRN (PST-PSL),4085223,Presidente,1989,Turno 1
-Paraná,Fernando Collor PRN (PST-PSL),1738216,Presidente,1989,Turno 1
-Santa Catarina,Fernando Collor PRN (PST-PSL),566990,Presidente,1989,Turno 1
-R. G. do Sul,Fernando Collor PRN (PST-PSL),480842,Presidente,1989,Turno 1
-M. G. do Sul,Fernando Collor PRN (PST-PSL),436539,Presidente,1989,Turno 1
-Mato Grosso,Fernando Collor PRN (PST-PSL),344973,Presidente,1989,Turno 1
-Goiás,Fernando Collor PRN (PST-PSL),803199,Presidente,1989,Turno 1
-Distrito Federal,Fernando Collor PRN (PST-PSL),172818,Presidente,1989,Turno 1
-Rondônia,COMPARECIMENTO,417622,Nulos e Branco 1989 Turno 2,1989,2
-Acre,COMPARECIMENTO,140309,Nulos e Branco 1989 Turno 2,1989,2
-Amazonas,COMPARECIMENTO,626652,Nulos e Branco 1989 Turno 2,1989,2
-Roraima,COMPARECIMENTO,56045,Nulos e Branco 1989 Turno 2,1989,2
-Pará,COMPARECIMENTO,1627799,Nulos e Branco 1989 Turno 2,1989,2
-Amapá,COMPARECIMENTO,91937,Nulos e Branco 1989 Turno 2,1989,2
-Tocantins,COMPARECIMENTO,317901,Nulos e Branco 1989 Turno 2,1989,2
-Maranhão,COMPARECIMENTO,1466281,Nulos e Branco 1989 Turno 2,1989,2
-Piauí,COMPARECIMENTO,1074579,Nulos e Branco 1989 Turno 2,1989,2
-Ceará,COMPARECIMENTO,2811171,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Norte,COMPARECIMENTO,1118754,Nulos e Branco 1989 Turno 2,1989,2
-Paraíba,COMPARECIMENTO,1466880,Nulos e Branco 1989 Turno 2,1989,2
-Pernambuco,COMPARECIMENTO,3210571,Nulos e Branco 1989 Turno 2,1989,2
-Alagoas,COMPARECIMENTO,967803,Nulos e Branco 1989 Turno 2,1989,2
-Sergipe,COMPARECIMENTO,675060,Nulos e Branco 1989 Turno 2,1989,2
-Bahia,COMPARECIMENTO,4711197,Nulos e Branco 1989 Turno 2,1989,2
-Minas Gerais,COMPARECIMENTO,8399385,Nulos e Branco 1989 Turno 2,1989,2
-Espírito Santo,COMPARECIMENTO,1271472,Nulos e Branco 1989 Turno 2,1989,2
-Rio de Janeiro,COMPARECIMENTO,7641004,Nulos e Branco 1989 Turno 2,1989,2
-São Paulo,COMPARECIMENTO,17443260,Nulos e Branco 1989 Turno 2,1989,2
-Paraná,COMPARECIMENTO,4519095,Nulos e Branco 1989 Turno 2,1989,2
-Santa Catarina,COMPARECIMENTO,2523413,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Sul,COMPARECIMENTO,5362973,Nulos e Branco 1989 Turno 2,1989,2
-M. G. do Sul,COMPARECIMENTO,863491,Nulos e Branco 1989 Turno 2,1989,2
-Mato Grosso,COMPARECIMENTO,794124,Nulos e Branco 1989 Turno 2,1989,2
-Goiás,COMPARECIMENTO,1895879,Nulos e Branco 1989 Turno 2,1989,2
-Distrito Federal,COMPARECIMENTO,782751,Nulos e Branco 1989 Turno 2,1989,2
-Rondônia,ABSTENÇÃO,140159,Nulos e Branco 1989 Turno 2,1989,2
-Acre,ABSTENÇÃO,42488,Nulos e Branco 1989 Turno 2,1989,2
-Amazonas,ABSTENÇÃO,215431,Nulos e Branco 1989 Turno 2,1989,2
-Roraima,ABSTENÇÃO,16956,Nulos e Branco 1989 Turno 2,1989,2
-Pará,ABSTENÇÃO,559053,Nulos e Branco 1989 Turno 2,1989,2
-Amapá,ABSTENÇÃO,26207,Nulos e Branco 1989 Turno 2,1989,2
-Tocantins,ABSTENÇÃO,146159,Nulos e Branco 1989 Turno 2,1989,2
-Maranhão,ABSTENÇÃO,678071,Nulos e Branco 1989 Turno 2,1989,2
-Piauí,ABSTENÇÃO,259703,Nulos e Branco 1989 Turno 2,1989,2
-Ceará,ABSTENÇÃO,540435,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Norte,ABSTENÇÃO,179334,Nulos e Branco 1989 Turno 2,1989,2
-Paraíba,ABSTENÇÃO,289537,Nulos e Branco 1989 Turno 2,1989,2
-Pernambuco,ABSTENÇÃO,553572,Nulos e Branco 1989 Turno 2,1989,2
-Alagoas,ABSTENÇÃO,242994,Nulos e Branco 1989 Turno 2,1989,2
-Sergipe,ABSTENÇÃO,101011,Nulos e Branco 1989 Turno 2,1989,2
-Bahia,ABSTENÇÃO,1182664,Nulos e Branco 1989 Turno 2,1989,2
-Minas Gerais,ABSTENÇÃO,1033718,Nulos e Branco 1989 Turno 2,1989,2
-Espírito Santo,ABSTENÇÃO,136287,Nulos e Branco 1989 Turno 2,1989,2
-Rio de Janeiro,ABSTENÇÃO,555543,Nulos e Branco 1989 Turno 2,1989,2
-São Paulo,ABSTENÇÃO,1057720,Nulos e Branco 1989 Turno 2,1989,2
-Paraná,ABSTENÇÃO,526531,Nulos e Branco 1989 Turno 2,1989,2
-Santa Catarina,ABSTENÇÃO,206503,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Sul,ABSTENÇÃO,337488,Nulos e Branco 1989 Turno 2,1989,2
-M. G. do Sul,ABSTENÇÃO,138741,Nulos e Branco 1989 Turno 2,1989,2
-Mato Grosso,ABSTENÇÃO,233848,Nulos e Branco 1989 Turno 2,1989,2
-Goiás,ABSTENÇÃO,304086,Nulos e Branco 1989 Turno 2,1989,2
-Distrito Federal,ABSTENÇÃO,74579,Nulos e Branco 1989 Turno 2,1989,2
-Rondônia,VOTOS EM BRANCO,6808,Nulos e Branco 1989 Turno 2,1989,2
-Acre,VOTOS EM BRANCO,2673,Nulos e Branco 1989 Turno 2,1989,2
-Amazonas,VOTOS EM BRANCO,9151,Nulos e Branco 1989 Turno 2,1989,2
-Roraima,VOTOS EM BRANCO,676,Nulos e Branco 1989 Turno 2,1989,2
-Pará,VOTOS EM BRANCO,29294,Nulos e Branco 1989 Turno 2,1989,2
-Amapá,VOTOS EM BRANCO,1072,Nulos e Branco 1989 Turno 2,1989,2
-Tocantins,VOTOS EM BRANCO,7609,Nulos e Branco 1989 Turno 2,1989,2
-Maranhão,VOTOS EM BRANCO,50278,Nulos e Branco 1989 Turno 2,1989,2
-Piauí,VOTOS EM BRANCO,31713,Nulos e Branco 1989 Turno 2,1989,2
-Ceará,VOTOS EM BRANCO,55448,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Norte,VOTOS EM BRANCO,27453,Nulos e Branco 1989 Turno 2,1989,2
-Paraíba,VOTOS EM BRANCO,41684,Nulos e Branco 1989 Turno 2,1989,2
-Pernambuco,VOTOS EM BRANCO,97269,Nulos e Branco 1989 Turno 2,1989,2
-Alagoas,VOTOS EM BRANCO,27486,Nulos e Branco 1989 Turno 2,1989,2
-Sergipe,VOTOS EM BRANCO,17953,Nulos e Branco 1989 Turno 2,1989,2
-Bahia,VOTOS EM BRANCO,162443,Nulos e Branco 1989 Turno 2,1989,2
-Minas Gerais,VOTOS EM BRANCO,176072,Nulos e Branco 1989 Turno 2,1989,2
-Espírito Santo,VOTOS EM BRANCO,20373,Nulos e Branco 1989 Turno 2,1989,2
-Rio de Janeiro,VOTOS EM BRANCO,53242,Nulos e Branco 1989 Turno 2,1989,2
-São Paulo,VOTOS EM BRANCO,156621,Nulos e Branco 1989 Turno 2,1989,2
-Paraná,VOTOS EM BRANCO,53297,Nulos e Branco 1989 Turno 2,1989,2
-Santa Catarina,VOTOS EM BRANCO,26354,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Sul,VOTOS EM BRANCO,57522,Nulos e Branco 1989 Turno 2,1989,2
-M. G. do Sul,VOTOS EM BRANCO,13218,Nulos e Branco 1989 Turno 2,1989,2
-Mato Grosso,VOTOS EM BRANCO,14819,Nulos e Branco 1989 Turno 2,1989,2
-Goiás,VOTOS EM BRANCO,31148,Nulos e Branco 1989 Turno 2,1989,2
-Distrito Federal,VOTOS EM BRANCO,4580,Nulos e Branco 1989 Turno 2,1989,2
-Rondônia,VOTOS NULOS,24080,Nulos e Branco 1989 Turno 2,1989,2
-Acre,VOTOS NULOS,9626,Nulos e Branco 1989 Turno 2,1989,2
-Amazonas,VOTOS NULOS,21632,Nulos e Branco 1989 Turno 2,1989,2
-Roraima,VOTOS NULOS,1572,Nulos e Branco 1989 Turno 2,1989,2
-Pará,VOTOS NULOS,73179,Nulos e Branco 1989 Turno 2,1989,2
-Amapá,VOTOS NULOS,3594,Nulos e Branco 1989 Turno 2,1989,2
-Tocantins,VOTOS NULOS,21292,Nulos e Branco 1989 Turno 2,1989,2
-Maranhão,VOTOS NULOS,116741,Nulos e Branco 1989 Turno 2,1989,2
-Piauí,VOTOS NULOS,77794,Nulos e Branco 1989 Turno 2,1989,2
-Ceará,VOTOS NULOS,153867,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Norte,VOTOS NULOS,111817,Nulos e Branco 1989 Turno 2,1989,2
-Paraíba,VOTOS NULOS,125005,Nulos e Branco 1989 Turno 2,1989,2
-Pernambuco,VOTOS NULOS,286474,Nulos e Branco 1989 Turno 2,1989,2
-Alagoas,VOTOS NULOS,78847,Nulos e Branco 1989 Turno 2,1989,2
-Sergipe,VOTOS NULOS,63228,Nulos e Branco 1989 Turno 2,1989,2
-Bahia,VOTOS NULOS,497679,Nulos e Branco 1989 Turno 2,1989,2
-Minas Gerais,VOTOS NULOS,466421,Nulos e Branco 1989 Turno 2,1989,2
-Espírito Santo,VOTOS NULOS,67529,Nulos e Branco 1989 Turno 2,1989,2
-Rio de Janeiro,VOTOS NULOS,186259,Nulos e Branco 1989 Turno 2,1989,2
-São Paulo,VOTOS NULOS,545295,Nulos e Branco 1989 Turno 2,1989,2
-Paraná,VOTOS NULOS,188574,Nulos e Branco 1989 Turno 2,1989,2
-Santa Catarina,VOTOS NULOS,85997,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Sul,VOTOS NULOS,98262,Nulos e Branco 1989 Turno 2,1989,2
-M. G. do Sul,VOTOS NULOS,30110,Nulos e Branco 1989 Turno 2,1989,2
-Mato Grosso,VOTOS NULOS,39030,Nulos e Branco 1989 Turno 2,1989,2
-Goiás,VOTOS NULOS,95220,Nulos e Branco 1989 Turno 2,1989,2
-Distrito Federal,VOTOS NULOS,18691,Nulos e Branco 1989 Turno 2,1989,2
-Rondônia,VOTOS NOS CANDIDATOS,386734,Nulos e Branco 1989 Turno 2,1989,2
-Acre,VOTOS NOS CANDIDATOS,128010,Nulos e Branco 1989 Turno 2,1989,2
-Amazonas,VOTOS NOS CANDIDATOS,595869,Nulos e Branco 1989 Turno 2,1989,2
-Roraima,VOTOS NOS CANDIDATOS,53797,Nulos e Branco 1989 Turno 2,1989,2
-Pará,VOTOS NOS CANDIDATOS,1525326,Nulos e Branco 1989 Turno 2,1989,2
-Amapá,VOTOS NOS CANDIDATOS,87271,Nulos e Branco 1989 Turno 2,1989,2
-Tocantins,VOTOS NOS CANDIDATOS,289000,Nulos e Branco 1989 Turno 2,1989,2
-Maranhão,VOTOS NOS CANDIDATOS,1299262,Nulos e Branco 1989 Turno 2,1989,2
-Piauí,VOTOS NOS CANDIDATOS,965072,Nulos e Branco 1989 Turno 2,1989,2
-Ceará,VOTOS NOS CANDIDATOS,2601856,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Norte,VOTOS NOS CANDIDATOS,979484,Nulos e Branco 1989 Turno 2,1989,2
-Paraíba,VOTOS NOS CANDIDATOS,1300191,Nulos e Branco 1989 Turno 2,1989,2
-Pernambuco,VOTOS NOS CANDIDATOS,2826828,Nulos e Branco 1989 Turno 2,1989,2
-Alagoas,VOTOS NOS CANDIDATOS,861470,Nulos e Branco 1989 Turno 2,1989,2
-Sergipe,VOTOS NOS CANDIDATOS,593879,Nulos e Branco 1989 Turno 2,1989,2
-Bahia,VOTOS NOS CANDIDATOS,4051075,Nulos e Branco 1989 Turno 2,1989,2
-Minas Gerais,VOTOS NOS CANDIDATOS,7756892,Nulos e Branco 1989 Turno 2,1989,2
-Espírito Santo,VOTOS NOS CANDIDATOS,1183570,Nulos e Branco 1989 Turno 2,1989,2
-Rio de Janeiro,VOTOS NOS CANDIDATOS,7401503,Nulos e Branco 1989 Turno 2,1989,2
-São Paulo,VOTOS NOS CANDIDATOS,16741344,Nulos e Branco 1989 Turno 2,1989,2
-Paraná,VOTOS NOS CANDIDATOS,4277224,Nulos e Branco 1989 Turno 2,1989,2
-Santa Catarina,VOTOS NOS CANDIDATOS,2411062,Nulos e Branco 1989 Turno 2,1989,2
-R. G. do Sul,VOTOS NOS CANDIDATOS,5207189,Nulos e Branco 1989 Turno 2,1989,2
-M. G. do Sul,VOTOS NOS CANDIDATOS,820163,Nulos e Branco 1989 Turno 2,1989,2
-Mato Grosso,VOTOS NOS CANDIDATOS,740275,Nulos e Branco 1989 Turno 2,1989,2
-Goiás,VOTOS NOS CANDIDATOS,1769511,Nulos e Branco 1989 Turno 2,1989,2
-Distrito Federal,VOTOS NOS CANDIDATOS,759480,Nulos e Branco 1989 Turno 2,1989,2
-Rondônia,COMPARECIMENTO,480320,Nulos e Brancos 1994 Turno 1,1994,1
-Acre,COMPARECIMENTO,206393,Nulos e Brancos 1994 Turno 1,1994,1
-Amazonas,COMPARECIMENTO,799541,Nulos e Brancos 1994 Turno 1,1994,1
-Roraima,COMPARECIMENTO,93902,Nulos e Brancos 1994 Turno 1,1994,1
-Pará,COMPARECIMENTO,1868313,Nulos e Brancos 1994 Turno 1,1994,1
-Amapá,COMPARECIMENTO,142626,Nulos e Brancos 1994 Turno 1,1994,1
-Tocantins,COMPARECIMENTO,443200,Nulos e Brancos 1994 Turno 1,1994,1
-Maranhão,COMPARECIMENTO,1817179,Nulos e Brancos 1994 Turno 1,1994,1
-Piauí,COMPARECIMENTO,1268153,Nulos e Brancos 1994 Turno 1,1994,1
-Ceará,COMPARECIMENTO,3124785,Nulos e Brancos 1994 Turno 1,1994,1
-R. G. do Norte,COMPARECIMENTO,1254124,Nulos e Brancos 1994 Turno 1,1994,1
-Paraíba,COMPARECIMENTO,1619649,Nulos e Brancos 1994 Turno 1,1994,1
-Pernambuco,COMPARECIMENTO,3523982,Nulos e Brancos 1994 Turno 1,1994,1
-Alagoas,COMPARECIMENTO,979067,Nulos e Brancos 1994 Turno 1,1994,1
-Sergipe,COMPARECIMENTO,778627,Nulos e Brancos 1994 Turno 1,1994,1
-Bahia,COMPARECIMENTO,5156380,Nulos e Brancos 1994 Turno 1,1994,1
-Minas Gerais,COMPARECIMENTO,8837261,Nulos e Brancos 1994 Turno 1,1994,1
-Espírito Santo,COMPARECIMENTO,1415810,Nulos e Brancos 1994 Turno 1,1994,1
-Rio de Janeiro,COMPARECIMENTO,7743559,Nulos e Brancos 1994 Turno 1,1994,1
-São Paulo,COMPARECIMENTO,18413248,Nulos e Brancos 1994 Turno 1,1994,1
-Paraná,COMPARECIMENTO,4743804,Nulos e Brancos 1994 Turno 1,1994,1
-Santa Catarina,COMPARECIMENTO,2740431,Nulos e Brancos 1994 Turno 1,1994,1
-R. G. do Sul,COMPARECIMENTO,5549281,Nulos e Brancos 1994 Turno 1,1994,1
-M. G. do Sul,COMPARECIMENTO,947159,Nulos e Brancos 1994 Turno 1,1994,1
-Mato Grosso,COMPARECIMENTO,936782,Nulos e Brancos 1994 Turno 1,1994,1
-Goiás,COMPARECIMENTO,2121879,Nulos e Brancos 1994 Turno 1,1994,1
-Distrito Federal,COMPARECIMENTO,915178,Nulos e Brancos 1994 Turno 1,1994,1
-C. OESTE,COMPARECIMENTO,4920998,Nulos e Brancos 1994 Turno 1,1994,1
-Rondônia,ABSTENÇÃO,211747,Nulos e Brancos 1994 Turno 1,1994,1
+Rondônia,Fernando Collor,165607,Presidente,1989,1
+Acre,Fernando Collor,49862,Presidente,1989,1
+Amazonas,Fernando Collor,300848,Presidente,1989,1
+Roraima,Fernando Collor,32130,Presidente,1989,1
+Pará,Fernando Collor,793384,Presidente,1989,1
+Amapá,Fernando Collor,42255,Presidente,1989,1
+Tocantins,Fernando Collor,164964,Presidente,1989,1
+Maranhão,Fernando Collor,609758,Presidente,1989,1
+Piauí,Fernando Collor,383632,Presidente,1989,1
+Ceará,Fernando Collor,861030,Presidente,1989,1
+R. G. do Norte,Fernando Collor,326878,Presidente,1989,1
+Paraíba,Fernando Collor,457129,Presidente,1989,1
+Pernambuco,Fernando Collor,1066986,Presidente,1989,1
+Alagoas,Fernando Collor,554612,Presidente,1989,1
+Sergipe,Fernando Collor,301730,Presidente,1989,1
+Bahia,Fernando Collor,1408614,Presidente,1989,1
+Minas Gerais,Fernando Collor,2801422,Presidente,1989,1
+Espírito Santo,Fernando Collor,468910,Presidente,1989,1
+Rio de Janeiro,Fernando Collor,1189385,Presidente,1989,1
+São Paulo,Fernando Collor,4085223,Presidente,1989,1
+Paraná,Fernando Collor,1738216,Presidente,1989,1
+Santa Catarina,Fernando Collor,566990,Presidente,1989,1
+R. G. do Sul,Fernando Collor,480842,Presidente,1989,1
+M. G. do Sul,Fernando Collor,436539,Presidente,1989,1
+Mato Grosso,Fernando Collor,344973,Presidente,1989,1
+Goiás,Fernando Collor,803199,Presidente,1989,1
+Distrito Federal,Fernando Collor,172818,Presidente,1989,1
+Distrito Federal,ABSTENÇÃO,211747,Nulos e Brancos 1994 Turno 1,1994,1
 Acre,ABSTENÇÃO,56769,Nulos e Brancos 1994 Turno 1,1994,1
 Amazonas,ABSTENÇÃO,306465,Nulos e Brancos 1994 Turno 1,1994,1
 Roraima,ABSTENÇÃO,25986,Nulos e Brancos 1994 Turno 1,1994,1
@@ -324,7 +134,6 @@ M. G. do Sul,ABSTENÇÃO,213895,Nulos e Brancos 1994 Turno 1,1994,1
 Mato Grosso,ABSTENÇÃO,342260,Nulos e Brancos 1994 Turno 1,1994,1
 Goiás,ABSTENÇÃO,500218,Nulos e Brancos 1994 Turno 1,1994,1
 Distrito Federal,ABSTENÇÃO,147069,Nulos e Brancos 1994 Turno 1,1994,1
-C. OESTE,ABSTENÇÃO,1203442,Nulos e Brancos 1994 Turno 1,1994,1
 Rondônia,VOTOS EM BRANCO,41357,Nulos e Brancos 1994 Turno 1,1994,1
 Acre,VOTOS EM BRANCO,23843,Nulos e Brancos 1994 Turno 1,1994,1
 Amazonas,VOTOS EM BRANCO,47272,Nulos e Brancos 1994 Turno 1,1994,1
@@ -352,7 +161,6 @@ M. G. do Sul,VOTOS EM BRANCO,64704,Nulos e Brancos 1994 Turno 1,1994,1
 Mato Grosso,VOTOS EM BRANCO,69570,Nulos e Brancos 1994 Turno 1,1994,1
 Goiás,VOTOS EM BRANCO,199622,Nulos e Brancos 1994 Turno 1,1994,1
 Distrito Federal,VOTOS EM BRANCO,36597,Nulos e Brancos 1994 Turno 1,1994,1
-C. OESTE,VOTOS EM BRANCO,370493,Nulos e Brancos 1994 Turno 1,1994,1
 Rondônia,VOTOS NULOS,29501,Nulos e Brancos 1994 Turno 1,1994,1
 Acre,VOTOS NULOS,15665,Nulos e Brancos 1994 Turno 1,1994,1
 Amazonas,VOTOS NULOS,58428,Nulos e Brancos 1994 Turno 1,1994,1
@@ -380,63 +188,33 @@ M. G. do Sul,VOTOS NULOS,76505,Nulos e Brancos 1994 Turno 1,1994,1
 Mato Grosso,VOTOS NULOS,95799,Nulos e Brancos 1994 Turno 1,1994,1
 Goiás,VOTOS NULOS,186128,Nulos e Brancos 1994 Turno 1,1994,1
 Distrito Federal,VOTOS NULOS,64143,Nulos e Brancos 1994 Turno 1,1994,1
-C. OESTE,VOTOS NULOS,422575,Nulos e Brancos 1994 Turno 1,1994,1
-Rondônia,Fernando Henrique Cardoso PSDB (PFL-PTB),259418,Presidente,1994,Turno 1
-Acre,Fernando Henrique Cardoso PSDB (PFL-PTB),90132,Presidente,1994,Turno 1
-Amazonas,Fernando Henrique Cardoso PSDB (PFL-PTB),419742,Presidente,1994,Turno 1
-Roraima,Fernando Henrique Cardoso PSDB (PFL-PTB),60693,Presidente,1994,Turno 1
-Pará,Fernando Henrique Cardoso PSDB (PFL-PTB),809793,Presidente,1994,Turno 1
-Amapá,Fernando Henrique Cardoso PSDB (PFL-PTB),76397,Presidente,1994,Turno 1
-Tocantins,Fernando Henrique Cardoso PSDB (PFL-PTB),234699,Presidente,1994,Turno 1
-Maranhão,Fernando Henrique Cardoso PSDB (PFL-PTB),785417,Presidente,1994,Turno 1
-Piauí,Fernando Henrique Cardoso PSDB (PFL-PTB),476404,Presidente,1994,Turno 1
-Ceará,Fernando Henrique Cardoso PSDB (PFL-PTB),1517698,Presidente,1994,Turno 1
-R. G. do Norte,Fernando Henrique Cardoso PSDB (PFL-PTB),606681,Presidente,1994,Turno 1
-Paraíba,Fernando Henrique Cardoso PSDB (PFL-PTB),761876,Presidente,1994,Turno 1
-Pernambuco,Fernando Henrique Cardoso PSDB (PFL-PTB),1381756,Presidente,1994,Turno 1
-Alagoas,Fernando Henrique Cardoso PSDB (PFL-PTB),525036,Presidente,1994,Turno 1
-Sergipe,Fernando Henrique Cardoso PSDB (PFL-PTB),270984,Presidente,1994,Turno 1
-Bahia,Fernando Henrique Cardoso PSDB (PFL-PTB),1951179,Presidente,1994,Turno 1
-Minas Gerais,Fernando Henrique Cardoso PSDB (PFL-PTB),4536780,Presidente,1994,Turno 1
-Espírito Santo,Fernando Henrique Cardoso PSDB (PFL-PTB),714958,Presidente,1994,Turno 1
-Rio de Janeiro,Fernando Henrique Cardoso PSDB (PFL-PTB),3102664,Presidente,1994,Turno 1
-São Paulo,Fernando Henrique Cardoso PSDB (PFL-PTB),8679287,Presidente,1994,Turno 1
-Paraná,Fernando Henrique Cardoso PSDB (PFL-PTB),2382093,Presidente,1994,Turno 1
-Santa Catarina,Fernando Henrique Cardoso PSDB (PFL-PTB),789001,Presidente,1994,Turno 1
-R. G. do Sul,Fernando Henrique Cardoso PSDB (PFL-PTB),1422390,Presidente,1994,Turno 1
-M. G. do Sul,Fernando Henrique Cardoso PSDB (PFL-PTB),512527,Presidente,1994,Turno 1
-Mato Grosso,Fernando Henrique Cardoso PSDB (PFL-PTB),495956,Presidente,1994,Turno 1
-Goiás,Fernando Henrique Cardoso PSDB (PFL-PTB),1171550,Presidente,1994,Turno 1
-Distrito Federal,Fernando Henrique Cardoso PSDB (PFL-PTB),315106,Presidente,1994,Turno 1
-C. OESTE,VOTOS NOS CANDIDATOS,4127930,Nulos e Brancos 1994 Turno 1,1994,1
-Rondônia,COMPARECIMENTO,585404,Nulos e Brancos 1998 Turno 1,1998,1
-Acre,COMPARECIMENTO,239598,Nulos e Brancos 1998 Turno 1,1998,1
-Amazonas,COMPARECIMENTO,969648,Nulos e Brancos 1998 Turno 1,1998,1
-Roraima,COMPARECIMENTO,133723,Nulos e Brancos 1998 Turno 1,1998,1
-Pará,COMPARECIMENTO,2147683,Nulos e Brancos 1998 Turno 1,1998,1
-Amapá,COMPARECIMENTO,184348,Nulos e Brancos 1998 Turno 1,1998,1
-Tocantins,COMPARECIMENTO,498878,Nulos e Brancos 1998 Turno 1,1998,1
-Maranhão,COMPARECIMENTO,2059544,Nulos e Brancos 1998 Turno 1,1998,1
-Piauí,COMPARECIMENTO,1346593,Nulos e Brancos 1998 Turno 1,1998,1
-Ceará,COMPARECIMENTO,3300859,Nulos e Brancos 1998 Turno 1,1998,1
-R. G. do Norte,COMPARECIMENTO,1399620,Nulos e Brancos 1998 Turno 1,1998,1
-Paraíba,COMPARECIMENTO,1675605,Nulos e Brancos 1998 Turno 1,1998,1
-Pernambuco,COMPARECIMENTO,3809687,Nulos e Brancos 1998 Turno 1,1998,1
-Alagoas,COMPARECIMENTO,993135,Nulos e Brancos 1998 Turno 1,1998,1
-Sergipe,COMPARECIMENTO,846933,Nulos e Brancos 1998 Turno 1,1998,1
-Bahia,COMPARECIMENTO,5406422,Nulos e Brancos 1998 Turno 1,1998,1
-Minas Gerais,COMPARECIMENTO,9465908,Nulos e Brancos 1998 Turno 1,1998,1
-Espírito Santo,COMPARECIMENTO,1498765,Nulos e Brancos 1998 Turno 1,1998,1
-Rio de Janeiro,COMPARECIMENTO,7953829,Nulos e Brancos 1998 Turno 1,1998,1
-São Paulo,COMPARECIMENTO,19470537,Nulos e Brancos 1998 Turno 1,1998,1
-Paraná,COMPARECIMENTO,5035699,Nulos e Brancos 1998 Turno 1,1998,1
-Santa Catarina,COMPARECIMENTO,2943703,Nulos e Brancos 1998 Turno 1,1998,1
-R. G. do Sul,COMPARECIMENTO,5822958,Nulos e Brancos 1998 Turno 1,1998,1
-M. G. do Sul,COMPARECIMENTO,997117,Nulos e Brancos 1998 Turno 1,1998,1
-Mato Grosso,COMPARECIMENTO,1076694,Nulos e Brancos 1998 Turno 1,1998,1
-Goiás,COMPARECIMENTO,2341531,Nulos e Brancos 1998 Turno 1,1998,1
-Distrito Federal,COMPARECIMENTO,1071508,Nulos e Brancos 1998 Turno 1,1998,1
-C. OESTE,COMPARECIMENTO,5486850,Nulos e Brancos 1998 Turno 1,1998,1
+Rondônia,Fernando Henrique Cardoso PSDB (PFL-PTB),259418,Presidente,1994,1
+Acre,Fernando Henrique Cardoso PSDB (PFL-PTB),90132,Presidente,1994,1
+Amazonas,Fernando Henrique Cardoso PSDB (PFL-PTB),419742,Presidente,1994,1
+Roraima,Fernando Henrique Cardoso PSDB (PFL-PTB),60693,Presidente,1994,1
+Pará,Fernando Henrique Cardoso PSDB (PFL-PTB),809793,Presidente,1994,1
+Amapá,Fernando Henrique Cardoso PSDB (PFL-PTB),76397,Presidente,1994,1
+Tocantins,Fernando Henrique Cardoso PSDB (PFL-PTB),234699,Presidente,1994,1
+Maranhão,Fernando Henrique Cardoso PSDB (PFL-PTB),785417,Presidente,1994,1
+Piauí,Fernando Henrique Cardoso PSDB (PFL-PTB),476404,Presidente,1994,1
+Ceará,Fernando Henrique Cardoso PSDB (PFL-PTB),1517698,Presidente,1994,1
+R. G. do Norte,Fernando Henrique Cardoso PSDB (PFL-PTB),606681,Presidente,1994,1
+Paraíba,Fernando Henrique Cardoso PSDB (PFL-PTB),761876,Presidente,1994,1
+Pernambuco,Fernando Henrique Cardoso PSDB (PFL-PTB),1381756,Presidente,1994,1
+Alagoas,Fernando Henrique Cardoso PSDB (PFL-PTB),525036,Presidente,1994,1
+Sergipe,Fernando Henrique Cardoso PSDB (PFL-PTB),270984,Presidente,1994,1
+Bahia,Fernando Henrique Cardoso PSDB (PFL-PTB),1951179,Presidente,1994,1
+Minas Gerais,Fernando Henrique Cardoso PSDB (PFL-PTB),4536780,Presidente,1994,1
+Espírito Santo,Fernando Henrique Cardoso PSDB (PFL-PTB),714958,Presidente,1994,1
+Rio de Janeiro,Fernando Henrique Cardoso PSDB (PFL-PTB),3102664,Presidente,1994,1
+São Paulo,Fernando Henrique Cardoso PSDB (PFL-PTB),8679287,Presidente,1994,1
+Paraná,Fernando Henrique Cardoso PSDB (PFL-PTB),2382093,Presidente,1994,1
+Santa Catarina,Fernando Henrique Cardoso PSDB (PFL-PTB),789001,Presidente,1994,1
+R. G. do Sul,Fernando Henrique Cardoso PSDB (PFL-PTB),1422390,Presidente,1994,1
+M. G. do Sul,Fernando Henrique Cardoso PSDB (PFL-PTB),512527,Presidente,1994,1
+Mato Grosso,Fernando Henrique Cardoso PSDB (PFL-PTB),495956,Presidente,1994,1
+Goiás,Fernando Henrique Cardoso PSDB (PFL-PTB),1171550,Presidente,1994,1
+Distrito Federal,Fernando Henrique Cardoso PSDB (PFL-PTB),315106,Presidente,1994,1
 Rondônia,ABSTENÇÃO,250775,Nulos e Brancos 1998 Turno 1,1998,1
 Acre,ABSTENÇÃO,79357,Nulos e Brancos 1998 Turno 1,1998,1
 Amazonas,ABSTENÇÃO,398436,Nulos e Brancos 1998 Turno 1,1998,1
@@ -464,7 +242,6 @@ M. G. do Sul,ABSTENÇÃO,259790,Nulos e Brancos 1998 Turno 1,1998,1
 Mato Grosso,ABSTENÇÃO,439757,Nulos e Brancos 1998 Turno 1,1998,1
 Goiás,ABSTENÇÃO,607401,Nulos e Brancos 1998 Turno 1,1998,1
 Distrito Federal,ABSTENÇÃO,196417,Nulos e Brancos 1998 Turno 1,1998,1
-C. OESTE,ABSTENÇÃO,1503365,Nulos e Brancos 1998 Turno 1,1998,1
 Rondônia,VOTOS EM BRANCO,46365,Nulos e Brancos 1998 Turno 1,1998,1
 Acre,VOTOS EM BRANCO,17538,Nulos e Brancos 1998 Turno 1,1998,1
 Amazonas,VOTOS EM BRANCO,49378,Nulos e Brancos 1998 Turno 1,1998,1
@@ -492,7 +269,6 @@ M. G. do Sul,VOTOS EM BRANCO,57510,Nulos e Brancos 1998 Turno 1,1998,1
 Mato Grosso,VOTOS EM BRANCO,88684,Nulos e Brancos 1998 Turno 1,1998,1
 Goiás,VOTOS EM BRANCO,235201,Nulos e Brancos 1998 Turno 1,1998,1
 Distrito Federal,VOTOS EM BRANCO,18944,Nulos e Brancos 1998 Turno 1,1998,1
-C. OESTE,VOTOS EM BRANCO,400339,Nulos e Brancos 1998 Turno 1,1998,1
 Rondônia,VOTOS NULOS,51510,Nulos e Brancos 1998 Turno 1,1998,1
 Acre,VOTOS NULOS,28979,Nulos e Brancos 1998 Turno 1,1998,1
 Amazonas,VOTOS NULOS,93460,Nulos e Brancos 1998 Turno 1,1998,1
@@ -520,63 +296,33 @@ M. G. do Sul,VOTOS NULOS,89937,Nulos e Brancos 1998 Turno 1,1998,1
 Mato Grosso,VOTOS NULOS,79957,Nulos e Brancos 1998 Turno 1,1998,1
 Goiás,VOTOS NULOS,214929,Nulos e Brancos 1998 Turno 1,1998,1
 Distrito Federal,VOTOS NULOS,85422,Nulos e Brancos 1998 Turno 1,1998,1
-C. OESTE,VOTOS NULOS,470245,Nulos e Brancos 1998 Turno 1,1998,1
-Rondônia,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),103927,Presidente,1998,Turno 1
-Acre,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),59690,Presidente,1998,Turno 1
-Amazonas,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),211507,Presidente,1998,Turno 1
-Roraima,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),20601,Presidente,1998,Turno 1
-Pará,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),530722,Presidente,1998,Turno 1
-Amapá,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),62394,Presidente,1998,Turno 1
-Tocantins,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),66607,Presidente,1998,Turno 1
-Maranhão,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),444912,Presidente,1998,Turno 1
-Piauí,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),270465,Presidente,1998,Turno 1
-Ceará,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),872290,Presidente,1998,Turno 1
-R. G. do Norte,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),267883,Presidente,1998,Turno 1
-Paraíba,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),402293,Presidente,1998,Turno 1
-Pernambuco,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),890971,Presidente,1998,Turno 1
-Alagoas,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),161584,Presidente,1998,Turno 1
-Sergipe,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),221565,Presidente,1998,Turno 1
-Bahia,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),1372797,Presidente,1998,Turno 1
-Minas Gerais,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),2129100,Presidente,1998,Turno 1
-Espírito Santo,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),263636,Presidente,1998,Turno 1
-Rio de Janeiro,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),2851274,Presidente,1998,Turno 1
-São Paulo,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),4688677,Presidente,1998,Turno 1
-Paraná,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),1168853,Presidente,1998,Turno 1
-Santa Catarina,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),929698,Presidente,1998,Turno 1
-R. G. do Sul,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),2460551,Presidente,1998,Turno 1
-M. G. do Sul,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),210120,Presidente,1998,Turno 1
-Mato Grosso,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),149462,Presidente,1998,Turno 1
-Goiás,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),371175,Presidente,1998,Turno 1
-Distrito Federal,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),287579,Presidente,1998,Turno 1
-C. OESTE,VOTOS NOS CANDIDATOS,4616266,Nulos e Brancos 1998 Turno 1,1998,1
-Rondônia,COMPARECIMENTO,693456,Nulos e Brancos 2002 Turno 1,2002,1
-Acre,COMPARECIMENTO,290431,Nulos e Brancos 2002 Turno 1,2002,1
-Amazonas,COMPARECIMENTO,1192308,Nulos e Brancos 2002 Turno 1,2002,1
-Roraima,COMPARECIMENTO,175211,Nulos e Brancos 2002 Turno 1,2002,1
-Pará,COMPARECIMENTO,2776995,Nulos e Brancos 2002 Turno 1,2002,1
-Amapá,COMPARECIMENTO,247842,Nulos e Brancos 2002 Turno 1,2002,1
-Tocantins,COMPARECIMENTO,623579,Nulos e Brancos 2002 Turno 1,2002,1
-Maranhão,COMPARECIMENTO,2579150,Nulos e Brancos 2002 Turno 1,2002,1
-Piauí,COMPARECIMENTO,1556642,Nulos e Brancos 2002 Turno 1,2002,1
-Ceará,COMPARECIMENTO,3860135,Nulos e Brancos 2002 Turno 1,2002,1
-R. G. do Norte,COMPARECIMENTO,1579867,Nulos e Brancos 2002 Turno 1,2002,1
-Paraíba,COMPARECIMENTO,1905508,Nulos e Brancos 2002 Turno 1,2002,1
-Pernambuco,COMPARECIMENTO,4246228,Nulos e Brancos 2002 Turno 1,2002,1
-Alagoas,COMPARECIMENTO,1261495,Nulos e Brancos 2002 Turno 1,2002,1
-Sergipe,COMPARECIMENTO,949189,Nulos e Brancos 2002 Turno 1,2002,1
-Bahia,COMPARECIMENTO,6399829,Nulos e Brancos 2002 Turno 1,2002,1
-Minas Gerais,COMPARECIMENTO,10514082,Nulos e Brancos 2002 Turno 1,2002,1
-Espírito Santo,COMPARECIMENTO,1768049,Nulos e Brancos 2002 Turno 1,2002,1
-Rio de Janeiro,COMPARECIMENTO,8713783,Nulos e Brancos 2002 Turno 1,2002,1
-São Paulo,COMPARECIMENTO,21568214,Nulos e Brancos 2002 Turno 1,2002,1
-Paraná,COMPARECIMENTO,5585348,Nulos e Brancos 2002 Turno 1,2002,1
-Santa Catarina,COMPARECIMENTO,3301569,Nulos e Brancos 2002 Turno 1,2002,1
-R. G. do Sul,COMPARECIMENTO,6396989,Nulos e Brancos 2002 Turno 1,2002,1
-M. G. do Sul,COMPARECIMENTO,1157516,Nulos e Brancos 2002 Turno 1,2002,1
-Mato Grosso,COMPARECIMENTO,1345189,Nulos e Brancos 2002 Turno 1,2002,1
-Goiás,COMPARECIMENTO,2792801,Nulos e Brancos 2002 Turno 1,2002,1
-Distrito Federal,COMPARECIMENTO,1284103,Nulos e Brancos 2002 Turno 1,2002,1
-  ,COMPARECIMENTO,NA,Nulos e Brancos 2002 Turno 1,2002,1
+Rondônia,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),103927,Presidente,1998,1
+Acre,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),59690,Presidente,1998,1
+Amazonas,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),211507,Presidente,1998,1
+Roraima,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),20601,Presidente,1998,1
+Pará,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),530722,Presidente,1998,1
+Amapá,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),62394,Presidente,1998,1
+Tocantins,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),66607,Presidente,1998,1
+Maranhão,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),444912,Presidente,1998,1
+Piauí,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),270465,Presidente,1998,1
+Ceará,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),872290,Presidente,1998,1
+R. G. do Norte,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),267883,Presidente,1998,1
+Paraíba,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),402293,Presidente,1998,1
+Pernambuco,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),890971,Presidente,1998,1
+Alagoas,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),161584,Presidente,1998,1
+Sergipe,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),221565,Presidente,1998,1
+Bahia,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),1372797,Presidente,1998,1
+Minas Gerais,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),2129100,Presidente,1998,1
+Espírito Santo,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),263636,Presidente,1998,1
+Rio de Janeiro,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),2851274,Presidente,1998,1
+São Paulo,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),4688677,Presidente,1998,1
+Paraná,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),1168853,Presidente,1998,1
+Santa Catarina,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),929698,Presidente,1998,1
+R. G. do Sul,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),2460551,Presidente,1998,1
+M. G. do Sul,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),210120,Presidente,1998,1
+Mato Grosso,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),149462,Presidente,1998,1
+Goiás,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),371175,Presidente,1998,1
+Distrito Federal,Luiz Inácio Lula da Silva PT (PDT-PSB-PCdoB),287579,Presidente,1998,1
 Rondônia,ABSTENÇÃO,189089,Nulos e Brancos 2002 Turno 1,2002,1
 Acre,ABSTENÇÃO,79355,Nulos e Brancos 2002 Turno 1,2002,1
 Amazonas,ABSTENÇÃO,332419,Nulos e Brancos 2002 Turno 1,2002,1
@@ -604,7 +350,6 @@ M. G. do Sul,ABSTENÇÃO,254257,Nulos e Brancos 2002 Turno 1,2002,1
 Mato Grosso,ABSTENÇÃO,384833,Nulos e Brancos 2002 Turno 1,2002,1
 Goiás,ABSTENÇÃO,573047,Nulos e Brancos 2002 Turno 1,2002,1
 Distrito Federal,ABSTENÇÃO,234334,Nulos e Brancos 2002 Turno 1,2002,1
-  ,ABSTENÇÃO,NA,Nulos e Brancos 2002 Turno 1,2002,1
 Rondônia,VOTOS EM BRANCO,14473,Nulos e Brancos 2002 Turno 1,2002,1
 Acre,VOTOS EM BRANCO,3968,Nulos e Brancos 2002 Turno 1,2002,1
 Amazonas,VOTOS EM BRANCO,16124,Nulos e Brancos 2002 Turno 1,2002,1
@@ -632,7 +377,6 @@ M. G. do Sul,VOTOS EM BRANCO,23218,Nulos e Brancos 2002 Turno 1,2002,1
 Mato Grosso,VOTOS EM BRANCO,28842,Nulos e Brancos 2002 Turno 1,2002,1
 Goiás,VOTOS EM BRANCO,62565,Nulos e Brancos 2002 Turno 1,2002,1
 Distrito Federal,VOTOS EM BRANCO,17517,Nulos e Brancos 2002 Turno 1,2002,1
-  ,VOTOS EM BRANCO,NA,Nulos e Brancos 2002 Turno 1,2002,1
 Rondônia,VOTOS NULOS,50012,Nulos e Brancos 2002 Turno 1,2002,1
 Acre,VOTOS NULOS,21574,Nulos e Brancos 2002 Turno 1,2002,1
 Amazonas,VOTOS NULOS,65142,Nulos e Brancos 2002 Turno 1,2002,1
@@ -661,223 +405,33 @@ Mato Grosso,VOTOS NULOS,64966,Nulos e Brancos 2002 Turno 1,2002,1
 Goiás,VOTOS NULOS,189953,Nulos e Brancos 2002 Turno 1,2002,1
 Distrito Federal,VOTOS NULOS,56652,Nulos e Brancos 2002 Turno 1,2002,1
   ,VOTOS NULOS,NA,Nulos e Brancos 2002 Turno 1,2002,1
-Rondônia,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),283279,Presidente,2002,Turno 1
-Acre,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),123999,Presidente,2002,Turno 1
-Amazonas,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),530246,Presidente,2002,Turno 1
-Roraima,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),71952,Presidente,2002,Turno 1
-Pará,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1070416,Presidente,2002,Turno 1
-Amapá,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),116507,Presidente,2002,Turno 1
-Tocantins,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),225291,Presidente,2002,Turno 1
-Maranhão,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),843132,Presidente,2002,Turno 1
-Piauí,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),615576,Presidente,2002,Turno 1
-Ceará,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1353339,Presidente,2002,Turno 1
-R. G. do Norte,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),581544,Presidente,2002,Turno 1
-Paraíba,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),754329,Presidente,2002,Turno 1
-Pernambuco,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1657476,Presidente,2002,Turno 1
-Alagoas,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),307751,Presidente,2002,Turno 1
-Sergipe,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),357557,Presidente,2002,Turno 1
-Bahia,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),2899280,Presidente,2002,Turno 1
-Minas Gerais,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),4990085,Presidente,2002,Turno 1
-Espírito Santo,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),717646,Presidente,2002,Turno 1
-Rio de Janeiro,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),3284258,Presidente,2002,Turno 1
-São Paulo,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),9106914,Presidente,2002,Turno 1
-Paraná,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),2540328,Presidente,2002,Turno 1
-Santa Catarina,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1719739,Presidente,2002,Turno 1
-R. G. do Sul,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),2667451,Presidente,2002,Turno 1
-M. G. do Sul,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),446438,Presidente,2002,Turno 1
-Mato Grosso,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),509151,Presidente,2002,Turno 1
-Goiás,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1069398,Presidente,2002,Turno 1
-Distrito Federal,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),592977,Presidente,2002,Turno 1
-  ,VOTOS NOS CANDIDATOS,NA,Nulos e Brancos 2002 Turno 1,2002,1
-Rondônia,COMPARECIMENTO,641443,Nulos e Brancos 2002 Turno 2,2002,2
-Acre,COMPARECIMENTO,244236,Nulos e Brancos 2002 Turno 2,2002,2
-Amazonas,COMPARECIMENTO,1071184,Nulos e Brancos 2002 Turno 2,2002,2
-Roraima,COMPARECIMENTO,170766,Nulos e Brancos 2002 Turno 2,2002,2
-Pará,COMPARECIMENTO,2588852,Nulos e Brancos 2002 Turno 2,2002,2
-Amapá,COMPARECIMENTO,237820,Nulos e Brancos 2002 Turno 2,2002,2
-Tocantins,COMPARECIMENTO,559827,Nulos e Brancos 2002 Turno 2,2002,2
-Maranhão,COMPARECIMENTO,2229107,Nulos e Brancos 2002 Turno 2,2002,2
-Piauí,COMPARECIMENTO,1441895,Nulos e Brancos 2002 Turno 2,2002,2
-Ceará,COMPARECIMENTO,3699233,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Norte,COMPARECIMENTO,1520599,Nulos e Brancos 2002 Turno 2,2002,2
-Paraíba,COMPARECIMENTO,1894314,Nulos e Brancos 2002 Turno 2,2002,2
-Pernambuco,COMPARECIMENTO,4095848,Nulos e Brancos 2002 Turno 2,2002,2
-Alagoas,COMPARECIMENTO,1161874,Nulos e Brancos 2002 Turno 2,2002,2
-Sergipe,COMPARECIMENTO,945260,Nulos e Brancos 2002 Turno 2,2002,2
-Bahia,COMPARECIMENTO,6041856,Nulos e Brancos 2002 Turno 2,2002,2
-Minas Gerais,COMPARECIMENTO,10205689,Nulos e Brancos 2002 Turno 2,2002,2
-Espírito Santo,COMPARECIMENTO,1671089,Nulos e Brancos 2002 Turno 2,2002,2
-Rio de Janeiro,COMPARECIMENTO,8482533,Nulos e Brancos 2002 Turno 2,2002,2
-São Paulo,COMPARECIMENTO,21493289,Nulos e Brancos 2002 Turno 2,2002,2
-Paraná,COMPARECIMENTO,5428354,Nulos e Brancos 2002 Turno 2,2002,2
-Santa Catarina,COMPARECIMENTO,3238941,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Sul,COMPARECIMENTO,6278208,Nulos e Brancos 2002 Turno 2,2002,2
-M. G. do Sul,COMPARECIMENTO,1119145,Nulos e Brancos 2002 Turno 2,2002,2
-Mato Grosso,COMPARECIMENTO,1237037,Nulos e Brancos 2002 Turno 2,2002,2
-Goiás,COMPARECIMENTO,2619102,Nulos e Brancos 2002 Turno 2,2002,2
-Distrito Federal,COMPARECIMENTO,1310715,Nulos e Brancos 2002 Turno 2,2002,2
-Rondônia,ABSTENÇÃO,241102,Nulos e Brancos 2002 Turno 2,2002,2
-Acre,ABSTENÇÃO,125550,Nulos e Brancos 2002 Turno 2,2002,2
-Amazonas,ABSTENÇÃO,453174,Nulos e Brancos 2002 Turno 2,2002,2
-Roraima,ABSTENÇÃO,37758,Nulos e Brancos 2002 Turno 2,2002,2
-Pará,ABSTENÇÃO,980481,Nulos e Brancos 2002 Turno 2,2002,2
-Amapá,ABSTENÇÃO,52281,Nulos e Brancos 2002 Turno 2,2002,2
-Tocantins,ABSTENÇÃO,225570,Nulos e Brancos 2002 Turno 2,2002,2
-Maranhão,ABSTENÇÃO,1162707,Nulos e Brancos 2002 Turno 2,2002,2
-Piauí,ABSTENÇÃO,406397,Nulos e Brancos 2002 Turno 2,2002,2
-Ceará,ABSTENÇÃO,1106026,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Norte,ABSTENÇÃO,396783,Nulos e Brancos 2002 Turno 2,2002,2
-Paraíba,ABSTENÇÃO,427754,Nulos e Brancos 2002 Turno 2,2002,2
-Pernambuco,ABSTENÇÃO,1300819,Nulos e Brancos 2002 Turno 2,2002,2
-Alagoas,ABSTENÇÃO,438218,Nulos e Brancos 2002 Turno 2,2002,2
-Sergipe,ABSTENÇÃO,202673,Nulos e Brancos 2002 Turno 2,2002,2
-Bahia,ABSTENÇÃO,2526746,Nulos e Brancos 2002 Turno 2,2002,2
-Minas Gerais,ABSTENÇÃO,2474895,Nulos e Brancos 2002 Turno 2,2002,2
-Espírito Santo,ABSTENÇÃO,475336,Nulos e Brancos 2002 Turno 2,2002,2
-Rio de Janeiro,ABSTENÇÃO,1730985,Nulos e Brancos 2002 Turno 2,2002,2
-São Paulo,ABSTENÇÃO,4162264,Nulos e Brancos 2002 Turno 2,2002,2
-Paraná,ABSTENÇÃO,1235027,Nulos e Brancos 2002 Turno 2,2002,2
-Santa Catarina,ABSTENÇÃO,579033,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Sul,ABSTENÇÃO,1073931,Nulos e Brancos 2002 Turno 2,2002,2
-M. G. do Sul,ABSTENÇÃO,292628,Nulos e Brancos 2002 Turno 2,2002,2
-Mato Grosso,ABSTENÇÃO,492985,Nulos e Brancos 2002 Turno 2,2002,2
-Goiás,ABSTENÇÃO,746746,Nulos e Brancos 2002 Turno 2,2002,2
-Distrito Federal,ABSTENÇÃO,207722,Nulos e Brancos 2002 Turno 2,2002,2
-Rondônia,VOTOS EM BRANCO,10830,Nulos e Brancos 2002 Turno 2,2002,2
-Acre,VOTOS EM BRANCO,2523,Nulos e Brancos 2002 Turno 2,2002,2
-Amazonas,VOTOS EM BRANCO,12330,Nulos e Brancos 2002 Turno 2,2002,2
-Roraima,VOTOS EM BRANCO,2564,Nulos e Brancos 2002 Turno 2,2002,2
-Pará,VOTOS EM BRANCO,24766,Nulos e Brancos 2002 Turno 2,2002,2
-Amapá,VOTOS EM BRANCO,2067,Nulos e Brancos 2002 Turno 2,2002,2
-Tocantins,VOTOS EM BRANCO,5999,Nulos e Brancos 2002 Turno 2,2002,2
-Maranhão,VOTOS EM BRANCO,36102,Nulos e Brancos 2002 Turno 2,2002,2
-Piauí,VOTOS EM BRANCO,17814,Nulos e Brancos 2002 Turno 2,2002,2
-Ceará,VOTOS EM BRANCO,75630,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Norte,VOTOS EM BRANCO,37591,Nulos e Brancos 2002 Turno 2,2002,2
-Paraíba,VOTOS EM BRANCO,38138,Nulos e Brancos 2002 Turno 2,2002,2
-Pernambuco,VOTOS EM BRANCO,91291,Nulos e Brancos 2002 Turno 2,2002,2
-Alagoas,VOTOS EM BRANCO,20244,Nulos e Brancos 2002 Turno 2,2002,2
-Sergipe,VOTOS EM BRANCO,20240,Nulos e Brancos 2002 Turno 2,2002,2
-Bahia,VOTOS EM BRANCO,94161,Nulos e Brancos 2002 Turno 2,2002,2
-Minas Gerais,VOTOS EM BRANCO,197540,Nulos e Brancos 2002 Turno 2,2002,2
-Espírito Santo,VOTOS EM BRANCO,33220,Nulos e Brancos 2002 Turno 2,2002,2
-Rio de Janeiro,VOTOS EM BRANCO,158230,Nulos e Brancos 2002 Turno 2,2002,2
-São Paulo,VOTOS EM BRANCO,448562,Nulos e Brancos 2002 Turno 2,2002,2
-Paraná,VOTOS EM BRANCO,111205,Nulos e Brancos 2002 Turno 2,2002,2
-Santa Catarina,VOTOS EM BRANCO,59175,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Sul,VOTOS EM BRANCO,137931,Nulos e Brancos 2002 Turno 2,2002,2
-M. G. do Sul,VOTOS EM BRANCO,14344,Nulos e Brancos 2002 Turno 2,2002,2
-Mato Grosso,VOTOS EM BRANCO,15390,Nulos e Brancos 2002 Turno 2,2002,2
-Goiás,VOTOS EM BRANCO,40298,Nulos e Brancos 2002 Turno 2,2002,2
-Distrito Federal,VOTOS EM BRANCO,18826,Nulos e Brancos 2002 Turno 2,2002,2
-Rondônia,VOTOS NULOS,29029,Nulos e Brancos 2002 Turno 2,2002,2
-Acre,VOTOS NULOS,7547,Nulos e Brancos 2002 Turno 2,2002,2
-Amazonas,VOTOS NULOS,25645,Nulos e Brancos 2002 Turno 2,2002,2
-Roraima,VOTOS NULOS,9423,Nulos e Brancos 2002 Turno 2,2002,2
-Pará,VOTOS NULOS,61990,Nulos e Brancos 2002 Turno 2,2002,2
-Amapá,VOTOS NULOS,8180,Nulos e Brancos 2002 Turno 2,2002,2
-Tocantins,VOTOS NULOS,20074,Nulos e Brancos 2002 Turno 2,2002,2
-Maranhão,VOTOS NULOS,90308,Nulos e Brancos 2002 Turno 2,2002,2
-Piauí,VOTOS NULOS,65221,Nulos e Brancos 2002 Turno 2,2002,2
-Ceará,VOTOS NULOS,144851,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Norte,VOTOS NULOS,149433,Nulos e Brancos 2002 Turno 2,2002,2
-Paraíba,VOTOS NULOS,128746,Nulos e Brancos 2002 Turno 2,2002,2
-Pernambuco,VOTOS NULOS,151752,Nulos e Brancos 2002 Turno 2,2002,2
-Alagoas,VOTOS NULOS,47719,Nulos e Brancos 2002 Turno 2,2002,2
-Sergipe,VOTOS NULOS,71108,Nulos e Brancos 2002 Turno 2,2002,2
-Bahia,VOTOS NULOS,299015,Nulos e Brancos 2002 Turno 2,2002,2
-Minas Gerais,VOTOS NULOS,399499,Nulos e Brancos 2002 Turno 2,2002,2
-Espírito Santo,VOTOS NULOS,47203,Nulos e Brancos 2002 Turno 2,2002,2
-Rio de Janeiro,VOTOS NULOS,323727,Nulos e Brancos 2002 Turno 2,2002,2
-São Paulo,VOTOS NULOS,707258,Nulos e Brancos 2002 Turno 2,2002,2
-Paraná,VOTOS NULOS,370524,Nulos e Brancos 2002 Turno 2,2002,2
-Santa Catarina,VOTOS NULOS,194580,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Sul,VOTOS NULOS,234814,Nulos e Brancos 2002 Turno 2,2002,2
-M. G. do Sul,VOTOS NULOS,27666,Nulos e Brancos 2002 Turno 2,2002,2
-Mato Grosso,VOTOS NULOS,29852,Nulos e Brancos 2002 Turno 2,2002,2
-Goiás,VOTOS NULOS,83498,Nulos e Brancos 2002 Turno 2,2002,2
-Distrito Federal,VOTOS NULOS,42696,Nulos e Brancos 2002 Turno 2,2002,2
-Rondônia,VOTOS NOS CANDIDATOS,601330,Nulos e Brancos 2002 Turno 2,2002,2
-Acre,VOTOS NOS CANDIDATOS,234166,Nulos e Brancos 2002 Turno 2,2002,2
-Amazonas,VOTOS NOS CANDIDATOS,1033209,Nulos e Brancos 2002 Turno 2,2002,2
-Roraima,VOTOS NOS CANDIDATOS,158779,Nulos e Brancos 2002 Turno 2,2002,2
-Pará,VOTOS NOS CANDIDATOS,2502096,Nulos e Brancos 2002 Turno 2,2002,2
-Amapá,VOTOS NOS CANDIDATOS,227573,Nulos e Brancos 2002 Turno 2,2002,2
-Tocantins,VOTOS NOS CANDIDATOS,533754,Nulos e Brancos 2002 Turno 2,2002,2
-Maranhão,VOTOS NOS CANDIDATOS,2102439,Nulos e Brancos 2002 Turno 2,2002,2
-Piauí,VOTOS NOS CANDIDATOS,1358860,Nulos e Brancos 2002 Turno 2,2002,2
-Ceará,VOTOS NOS CANDIDATOS,3478752,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Norte,VOTOS NOS CANDIDATOS,1333575,Nulos e Brancos 2002 Turno 2,2002,2
-Paraíba,VOTOS NOS CANDIDATOS,1727430,Nulos e Brancos 2002 Turno 2,2002,2
-Pernambuco,VOTOS NOS CANDIDATOS,3852805,Nulos e Brancos 2002 Turno 2,2002,2
-Alagoas,VOTOS NOS CANDIDATOS,1093911,Nulos e Brancos 2002 Turno 2,2002,2
-Sergipe,VOTOS NOS CANDIDATOS,853912,Nulos e Brancos 2002 Turno 2,2002,2
-Bahia,VOTOS NOS CANDIDATOS,5648680,Nulos e Brancos 2002 Turno 2,2002,2
-Minas Gerais,VOTOS NOS CANDIDATOS,9608650,Nulos e Brancos 2002 Turno 2,2002,2
-Espírito Santo,VOTOS NOS CANDIDATOS,1590666,Nulos e Brancos 2002 Turno 2,2002,2
-Rio de Janeiro,VOTOS NOS CANDIDATOS,8000576,Nulos e Brancos 2002 Turno 2,2002,2
-São Paulo,VOTOS NOS CANDIDATOS,20337469,Nulos e Brancos 2002 Turno 2,2002,2
-Paraná,VOTOS NOS CANDIDATOS,4946625,Nulos e Brancos 2002 Turno 2,2002,2
-Santa Catarina,VOTOS NOS CANDIDATOS,2985186,Nulos e Brancos 2002 Turno 2,2002,2
-R. G. do Sul,VOTOS NOS CANDIDATOS,5905463,Nulos e Brancos 2002 Turno 2,2002,2
-M. G. do Sul,VOTOS NOS CANDIDATOS,1077135,Nulos e Brancos 2002 Turno 2,2002,2
-Mato Grosso,VOTOS NOS CANDIDATOS,1191795,Nulos e Brancos 2002 Turno 2,2002,2
-Goiás,VOTOS NOS CANDIDATOS,2495306,Nulos e Brancos 2002 Turno 2,2002,2
-Distrito Federal,VOTOS NOS CANDIDATOS,1249193,Nulos e Brancos 2002 Turno 2,2002,2
-Rondônia,   ELEITORADO,988631,Nulos e Brancos 2006 Turno 1,2006,1
-Acre,   ELEITORADO,412840,Nulos e Brancos 2006 Turno 1,2006,1
-Amazonas,   ELEITORADO,1781316,Nulos e Brancos 2006 Turno 1,2006,1
-Roraima,   ELEITORADO,233596,Nulos e Brancos 2006 Turno 1,2006,1
-Pará,   ELEITORADO,4157735,Nulos e Brancos 2006 Turno 1,2006,1
-Amapá,   ELEITORADO,360614,Nulos e Brancos 2006 Turno 1,2006,1
-Tocantins,   ELEITORADO,882728,Nulos e Brancos 2006 Turno 1,2006,1
-Maranhão,   ELEITORADO,3920608,Nulos e Brancos 2006 Turno 1,2006,1
-Piauí,   ELEITORADO,2073504,Nulos e Brancos 2006 Turno 1,2006,1
-Ceará,   ELEITORADO,5361581,Nulos e Brancos 2006 Turno 1,2006,1
-R. G. do Norte,   ELEITORADO,2101144,Nulos e Brancos 2006 Turno 1,2006,1
-Paraíba,   ELEITORADO,2573766,Nulos e Brancos 2006 Turno 1,2006,1
-Pernambuco,   ELEITORADO,5834512,Nulos e Brancos 2006 Turno 1,2006,1
-Alagoas,   ELEITORADO,1859487,Nulos e Brancos 2006 Turno 1,2006,1
-Sergipe,   ELEITORADO,1299785,Nulos e Brancos 2006 Turno 1,2006,1
-Bahia,   ELEITORADO,9109353,Nulos e Brancos 2006 Turno 1,2006,1
-Minas Gerais,   ELEITORADO,13679738,Nulos e Brancos 2006 Turno 1,2006,1
-Espirito Santo,   ELEITORADO,2336133,Nulos e Brancos 2006 Turno 1,2006,1
-Rio de Janeiro ,   ELEITORADO,10891293,Nulos e Brancos 2006 Turno 1,2006,1
-São Paulo,   ELEITORADO,28037734,Nulos e Brancos 2006 Turno 1,2006,1
-Paraná,   ELEITORADO,7121257,Nulos e Brancos 2006 Turno 1,2006,1
-Santa Catarina,   ELEITORADO,4168495,Nulos e Brancos 2006 Turno 1,2006,1
-R. G. do Sul,   ELEITORADO,7750583,Nulos e Brancos 2006 Turno 1,2006,1
-M. G. do Sul,   ELEITORADO,1561181,Nulos e Brancos 2006 Turno 1,2006,1
-Mato Grosso,   ELEITORADO,1940270,Nulos e Brancos 2006 Turno 1,2006,1
-Goiás,   ELEITORADO,3734185,Nulos e Brancos 2006 Turno 1,2006,1
-Distrito Federal,   ELEITORADO,1655050,Nulos e Brancos 2006 Turno 1,2006,1
-Rondônia,COMPARECIMENTO,785916,Nulos e Brancos 2006 Turno 1,2006,1
-Acre,COMPARECIMENTO,334418,Nulos e Brancos 2006 Turno 1,2006,1
-Amazonas,COMPARECIMENTO,1464976,Nulos e Brancos 2006 Turno 1,2006,1
-Roraima,COMPARECIMENTO,199239,Nulos e Brancos 2006 Turno 1,2006,1
-Pará,COMPARECIMENTO,3333677,Nulos e Brancos 2006 Turno 1,2006,1
-Amapá,COMPARECIMENTO,309127,Nulos e Brancos 2006 Turno 1,2006,1
-Tocantins,COMPARECIMENTO,722082,Nulos e Brancos 2006 Turno 1,2006,1
-Maranhão,COMPARECIMENTO,3103527,Nulos e Brancos 2006 Turno 1,2006,1
-Piauí,COMPARECIMENTO,1738648,Nulos e Brancos 2006 Turno 1,2006,1
-Ceará,COMPARECIMENTO,4429568,Nulos e Brancos 2006 Turno 1,2006,1
-R. G. do Norte,COMPARECIMENTO,1789912,Nulos e Brancos 2006 Turno 1,2006,1
-Paraíba,COMPARECIMENTO,2154153,Nulos e Brancos 2006 Turno 1,2006,1
-Pernambuco,COMPARECIMENTO,4769970,Nulos e Brancos 2006 Turno 1,2006,1
-Alagoas,COMPARECIMENTO,1513750,Nulos e Brancos 2006 Turno 1,2006,1
-Sergipe,COMPARECIMENTO,1111558,Nulos e Brancos 2006 Turno 1,2006,1
-Bahia,COMPARECIMENTO,7225104,Nulos e Brancos 2006 Turno 1,2006,1
-Minas Gerais,COMPARECIMENTO,11232597,Nulos e Brancos 2006 Turno 1,2006,1
-Espirito Santo,COMPARECIMENTO,1942849,Nulos e Brancos 2006 Turno 1,2006,1
-Rio de Janeiro ,COMPARECIMENTO,9255690,Nulos e Brancos 2006 Turno 1,2006,1
-São Paulo,COMPARECIMENTO,23771584,Nulos e Brancos 2006 Turno 1,2006,1
-Paraná,COMPARECIMENTO,5967396,Nulos e Brancos 2006 Turno 1,2006,1
-Santa Catarina,COMPARECIMENTO,3588173,Nulos e Brancos 2006 Turno 1,2006,1
-R. G. do Sul,COMPARECIMENTO,6676828,Nulos e Brancos 2006 Turno 1,2006,1
-M. G. do Sul,COMPARECIMENTO,1288948,Nulos e Brancos 2006 Turno 1,2006,1
-Mato Grosso,COMPARECIMENTO,1549616,Nulos e Brancos 2006 Turno 1,2006,1
-Goiás,COMPARECIMENTO,3094151,Nulos e Brancos 2006 Turno 1,2006,1
-Distrito Federal,COMPARECIMENTO,1425300,Nulos e Brancos 2006 Turno 1,2006,1
+Rondônia,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),283279,Presidente,2002,1
+Acre,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),123999,Presidente,2002,1
+Amazonas,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),530246,Presidente,2002,1
+Roraima,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),71952,Presidente,2002,1
+Pará,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1070416,Presidente,2002,1
+Amapá,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),116507,Presidente,2002,1
+Tocantins,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),225291,Presidente,2002,1
+Maranhão,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),843132,Presidente,2002,1
+Piauí,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),615576,Presidente,2002,1
+Ceará,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1353339,Presidente,2002,1
+R. G. do Norte,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),581544,Presidente,2002,1
+Paraíba,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),754329,Presidente,2002,1
+Pernambuco,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1657476,Presidente,2002,1
+Alagoas,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),307751,Presidente,2002,1
+Sergipe,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),357557,Presidente,2002,1
+Bahia,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),2899280,Presidente,2002,1
+Minas Gerais,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),4990085,Presidente,2002,1
+Espírito Santo,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),717646,Presidente,2002,1
+Rio de Janeiro,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),3284258,Presidente,2002,1
+São Paulo,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),9106914,Presidente,2002,1
+Paraná,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),2540328,Presidente,2002,1
+Santa Catarina,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1719739,Presidente,2002,1
+R. G. do Sul,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),2667451,Presidente,2002,1
+M. G. do Sul,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),446438,Presidente,2002,1
+Mato Grosso,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),509151,Presidente,2002,1
+Goiás,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),1069398,Presidente,2002,1
+Distrito Federal,Luiz Inácio Lula da Silva PT (PCB-PL-PMN-PCdoB),592977,Presidente,2002,1
 Rondônia,ABSTENÇÃO,202715,Nulos e Brancos 2006 Turno 1,2006,1
 Acre,ABSTENÇÃO,78422,Nulos e Brancos 2006 Turno 1,2006,1
 Amazonas,ABSTENÇÃO,316270,Nulos e Brancos 2006 Turno 1,2006,1
@@ -959,222 +513,33 @@ M. G. do Sul,VOTOS NULOS,49064,Nulos e Brancos 2006 Turno 1,2006,1
 Mato Grosso,VOTOS NULOS,79405,Nulos e Brancos 2006 Turno 1,2006,1
 Goiás,VOTOS NULOS,180681,Nulos e Brancos 2006 Turno 1,2006,1
 Distrito Federal,VOTOS NULOS,56258,Nulos e Brancos 2006 Turno 1,2006,1
-Rondônia, Luiz Inácio Lula da Silva PT (PRB-PCdoB),329598,Presidente,2006,Turno 1
-Acre, Luiz Inácio Lula da Silva PT (PRB-PCdoB),133221,Presidente,2006,Turno 1
-Amazonas, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1070656,Presidente,2006,Turno 1
-Roraima, Luiz Inácio Lula da Silva PT (PRB-PCdoB),49433,Presidente,2006,Turno 1
-Pará, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1631569,Presidente,2006,Turno 1
-Amapá, Luiz Inácio Lula da Silva PT (PRB-PCdoB),160675,Presidente,2006,Turno 1
-Tocantins, Luiz Inácio Lula da Silva PT (PRB-PCdoB),392151,Presidente,2006,Turno 1
-Maranhão, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2128103,Presidente,2006,Turno 1
-Piauí, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1055600,Presidente,2006,Turno 1
-Ceará, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2852895,Presidente,2006,Turno 1
-R. G. do Norte, Luiz Inácio Lula da Silva PT (PRB-PCdoB),952796,Presidente,2006,Turno 1
-Paraíba, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1258341,Presidente,2006,Turno 1
-Pernambuco, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2993618,Presidente,2006,Turno 1
-Alagoas, Luiz Inácio Lula da Silva PT (PRB-PCdoB),625162,Presidente,2006,Turno 1
-Sergipe, Luiz Inácio Lula da Silva PT (PRB-PCdoB),476399,Presidente,2006,Turno 1
-Bahia, Luiz Inácio Lula da Silva PT (PRB-PCdoB),4293200,Presidente,2006,Turno 1
-Minas Gerais, Luiz Inácio Lula da Silva PT (PRB-PCdoB),5192439,Presidente,2006,Turno 1
-Espirito Santo, Luiz Inácio Lula da Silva PT (PRB-PCdoB),953609,Presidente,2006,Turno 1
-Rio de Janeiro , Luiz Inácio Lula da Silva PT (PRB-PCdoB),4092648,Presidente,2006,Turno 1
-São Paulo, Luiz Inácio Lula da Silva PT (PRB-PCdoB),8091867,Presidente,2006,Turno 1
-Paraná, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2111589,Presidente,2006,Turno 1
-Santa Catarina, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1108851,Presidente,2006,Turno 1
-R. G. do Sul, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2052656,Presidente,2006,Turno 1
-Mato Grosso, Luiz Inácio Lula da Silva PT (PRB-PCdoB),557244,Presidente,2006,Turno 1
-Mato Grosso do Sul, Luiz Inácio Lula da Silva PT (PRB-PCdoB),439965,Presidente,2006,Turno 1
-Goiás, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1143122,Presidente,2006,Turno 1
-Distrito Federal, Luiz Inácio Lula da Silva PT (PRB-PCdoB),499407,Presidente,2006,Turno 1
-Rondônia,   ELEITORADO,988631,Nulos e Brancos 2006 Turno 2,2006,2
-Acre,   ELEITORADO,412840,Nulos e Brancos 2006 Turno 2,2006,2
-Amazonas,   ELEITORADO,1781316,Nulos e Brancos 2006 Turno 2,2006,2
-Roraima,   ELEITORADO,233596,Nulos e Brancos 2006 Turno 2,2006,2
-Pará,   ELEITORADO,4157735,Nulos e Brancos 2006 Turno 2,2006,2
-Amapá,   ELEITORADO,360614,Nulos e Brancos 2006 Turno 2,2006,2
-Tocantins,   ELEITORADO,882728,Nulos e Brancos 2006 Turno 2,2006,2
-Maranhão,   ELEITORADO,3920608,Nulos e Brancos 2006 Turno 2,2006,2
-Piauí,   ELEITORADO,2073504,Nulos e Brancos 2006 Turno 2,2006,2
-Ceará,   ELEITORADO,5361581,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Norte,   ELEITORADO,2101144,Nulos e Brancos 2006 Turno 2,2006,2
-Paraíba,   ELEITORADO,2573766,Nulos e Brancos 2006 Turno 2,2006,2
-Pernambuco,   ELEITORADO,5834512,Nulos e Brancos 2006 Turno 2,2006,2
-Alagoas,   ELEITORADO,1859487,Nulos e Brancos 2006 Turno 2,2006,2
-Sergipe,   ELEITORADO,1299785,Nulos e Brancos 2006 Turno 2,2006,2
-Bahia,   ELEITORADO,9109353,Nulos e Brancos 2006 Turno 2,2006,2
-Minas Gerais,   ELEITORADO,13679738,Nulos e Brancos 2006 Turno 2,2006,2
-Espirito Santo,   ELEITORADO,2336133,Nulos e Brancos 2006 Turno 2,2006,2
-Rio de Janeiro ,   ELEITORADO,10891293,Nulos e Brancos 2006 Turno 2,2006,2
-São Paulo,   ELEITORADO,28037734,Nulos e Brancos 2006 Turno 2,2006,2
-Paraná,   ELEITORADO,7121257,Nulos e Brancos 2006 Turno 2,2006,2
-Santa Catarina,   ELEITORADO,4168495,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Sul,   ELEITORADO,7750583,Nulos e Brancos 2006 Turno 2,2006,2
-M. G. do Sul,   ELEITORADO,1561181,Nulos e Brancos 2006 Turno 2,2006,2
-Mato Grosso,   ELEITORADO,1940270,Nulos e Brancos 2006 Turno 2,2006,2
-Goiás,   ELEITORADO,3734185,Nulos e Brancos 2006 Turno 2,2006,2
-Distrito Federal,   ELEITORADO,1655050,Nulos e Brancos 2006 Turno 2,2006,2
-Rondônia,COMPARECIMENTO,737440,Nulos e Brancos 2006 Turno 2,2006,2
-Acre,COMPARECIMENTO,298663,Nulos e Brancos 2006 Turno 2,2006,2
-Amazonas,COMPARECIMENTO,1369895,Nulos e Brancos 2006 Turno 2,2006,2
-Roraima,COMPARECIMENTO,178754,Nulos e Brancos 2006 Turno 2,2006,2
-Pará,COMPARECIMENTO,3154056,Nulos e Brancos 2006 Turno 2,2006,2
-Amapá,COMPARECIMENTO,279594,Nulos e Brancos 2006 Turno 2,2006,2
-Tocantins,COMPARECIMENTO,659709,Nulos e Brancos 2006 Turno 2,2006,2
-Maranhão,COMPARECIMENTO,2973091,Nulos e Brancos 2006 Turno 2,2006,2
-Piauí,COMPARECIMENTO,1649387,Nulos e Brancos 2006 Turno 2,2006,2
-Ceará,COMPARECIMENTO,4285077,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Norte,COMPARECIMENTO,1749638,Nulos e Brancos 2006 Turno 2,2006,2
-Paraíba,COMPARECIMENTO,2132596,Nulos e Brancos 2006 Turno 2,2006,2
-Pernambuco,COMPARECIMENTO,4701124,Nulos e Brancos 2006 Turno 2,2006,2
-Alagoas,COMPARECIMENTO,1404043,Nulos e Brancos 2006 Turno 2,2006,2
-Sergipe,COMPARECIMENTO,1063988,Nulos e Brancos 2006 Turno 2,2006,2
-Bahia,COMPARECIMENTO,6987561,Nulos e Brancos 2006 Turno 2,2006,2
-Minas Gerais,COMPARECIMENTO,10996098,Nulos e Brancos 2006 Turno 2,2006,2
-Espirito Santo,COMPARECIMENTO,1884434,Nulos e Brancos 2006 Turno 2,2006,2
-Rio de Janeiro ,COMPARECIMENTO,9001916,Nulos e Brancos 2006 Turno 2,2006,2
-São Paulo,COMPARECIMENTO,23458635,Nulos e Brancos 2006 Turno 2,2006,2
-Paraná,COMPARECIMENTO,5790596,Nulos e Brancos 2006 Turno 2,2006,2
-Santa Catarina,COMPARECIMENTO,3533276,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Sul,COMPARECIMENTO,6553582,Nulos e Brancos 2006 Turno 2,2006,2
-M. G. do Sul,COMPARECIMENTO,1225390,Nulos e Brancos 2006 Turno 2,2006,2
-Mato Grosso,COMPARECIMENTO,1471964,Nulos e Brancos 2006 Turno 2,2006,2
-Goiás,COMPARECIMENTO,2971410,Nulos e Brancos 2006 Turno 2,2006,2
-Distrito Federal,COMPARECIMENTO,1395766,Nulos e Brancos 2006 Turno 2,2006,2
-Rondônia,ABSTENÇÃO,251191,Nulos e Brancos 2006 Turno 2,2006,2
-Acre,ABSTENÇÃO,114177,Nulos e Brancos 2006 Turno 2,2006,2
-Amazonas,ABSTENÇÃO,411421,Nulos e Brancos 2006 Turno 2,2006,2
-Roraima,ABSTENÇÃO,54842,Nulos e Brancos 2006 Turno 2,2006,2
-Pará,ABSTENÇÃO,1003679,Nulos e Brancos 2006 Turno 2,2006,2
-Amapá,ABSTENÇÃO,81020,Nulos e Brancos 2006 Turno 2,2006,2
-Tocantins,ABSTENÇÃO,223019,Nulos e Brancos 2006 Turno 2,2006,2
-Maranhão,ABSTENÇÃO,947517,Nulos e Brancos 2006 Turno 2,2006,2
-Piauí,ABSTENÇÃO,424117,Nulos e Brancos 2006 Turno 2,2006,2
-Ceará,ABSTENÇÃO,1076504,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Norte,ABSTENÇÃO,351506,Nulos e Brancos 2006 Turno 2,2006,2
-Paraíba,ABSTENÇÃO,441170,Nulos e Brancos 2006 Turno 2,2006,2
-Pernambuco,ABSTENÇÃO,1133388,Nulos e Brancos 2006 Turno 2,2006,2
-Alagoas,ABSTENÇÃO,455444,Nulos e Brancos 2006 Turno 2,2006,2
-Sergipe,ABSTENÇÃO,235797,Nulos e Brancos 2006 Turno 2,2006,2
-Bahia,ABSTENÇÃO,2121792,Nulos e Brancos 2006 Turno 2,2006,2
-Minas Gerais,ABSTENÇÃO,2683640,Nulos e Brancos 2006 Turno 2,2006,2
-Espirito Santo,ABSTENÇÃO,451699,Nulos e Brancos 2006 Turno 2,2006,2
-Rio de Janeiro ,ABSTENÇÃO,1889377,Nulos e Brancos 2006 Turno 2,2006,2
-São Paulo,ABSTENÇÃO,4579099,Nulos e Brancos 2006 Turno 2,2006,2
-Paraná,ABSTENÇÃO,1330661,Nulos e Brancos 2006 Turno 2,2006,2
-Santa Catarina,ABSTENÇÃO,635219,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Sul,ABSTENÇÃO,1197001,Nulos e Brancos 2006 Turno 2,2006,2
-M. G. do Sul,ABSTENÇÃO,335791,Nulos e Brancos 2006 Turno 2,2006,2
-Mato Grosso,ABSTENÇÃO,468306,Nulos e Brancos 2006 Turno 2,2006,2
-Goiás,ABSTENÇÃO,762775,Nulos e Brancos 2006 Turno 2,2006,2
-Distrito Federal,ABSTENÇÃO,259284,Nulos e Brancos 2006 Turno 2,2006,2
-Rondônia,VOTOS EM BRANCO,5040,Nulos e Brancos 2006 Turno 2,2006,2
-Acre,VOTOS EM BRANCO,1899,Nulos e Brancos 2006 Turno 2,2006,2
-Amazonas,VOTOS EM BRANCO,8456,Nulos e Brancos 2006 Turno 2,2006,2
-Roraima,VOTOS EM BRANCO,1291,Nulos e Brancos 2006 Turno 2,2006,2
-Pará,VOTOS EM BRANCO,22357,Nulos e Brancos 2006 Turno 2,2006,2
-Amapá,VOTOS EM BRANCO,1779,Nulos e Brancos 2006 Turno 2,2006,2
-Tocantins,VOTOS EM BRANCO,4145,Nulos e Brancos 2006 Turno 2,2006,2
-Maranhão,VOTOS EM BRANCO,24518,Nulos e Brancos 2006 Turno 2,2006,2
-Piauí,VOTOS EM BRANCO,13545,Nulos e Brancos 2006 Turno 2,2006,2
-Ceará,VOTOS EM BRANCO,38672,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Norte,VOTOS EM BRANCO,25800,Nulos e Brancos 2006 Turno 2,2006,2
-Paraíba,VOTOS EM BRANCO,27087,Nulos e Brancos 2006 Turno 2,2006,2
-Pernambuco,VOTOS EM BRANCO,85958,Nulos e Brancos 2006 Turno 2,2006,2
-Alagoas,VOTOS EM BRANCO,15587,Nulos e Brancos 2006 Turno 2,2006,2
-Sergipe,VOTOS EM BRANCO,12652,Nulos e Brancos 2006 Turno 2,2006,2
-Bahia,VOTOS EM BRANCO,75653,Nulos e Brancos 2006 Turno 2,2006,2
-Minas Gerais,VOTOS EM BRANCO,156832,Nulos e Brancos 2006 Turno 2,2006,2
-Espirito Santo,VOTOS EM BRANCO,24319,Nulos e Brancos 2006 Turno 2,2006,2
-Rio de Janeiro ,VOTOS EM BRANCO,191676,Nulos e Brancos 2006 Turno 2,2006,2
-São Paulo,VOTOS EM BRANCO,303294,Nulos e Brancos 2006 Turno 2,2006,2
-Paraná,VOTOS EM BRANCO,79667,Nulos e Brancos 2006 Turno 2,2006,2
-Santa Catarina,VOTOS EM BRANCO,49146,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Sul,VOTOS EM BRANCO,108626,Nulos e Brancos 2006 Turno 2,2006,2
-M. G. do Sul,VOTOS EM BRANCO,8677,Nulos e Brancos 2006 Turno 2,2006,2
-Mato Grosso,VOTOS EM BRANCO,11158,Nulos e Brancos 2006 Turno 2,2006,2
-Goiás,VOTOS EM BRANCO,37096,Nulos e Brancos 2006 Turno 2,2006,2
-Distrito Federal,VOTOS EM BRANCO,15578,Nulos e Brancos 2006 Turno 2,2006,2
-Rondônia,VOTOS NULOS,14267,Nulos e Brancos 2006 Turno 2,2006,2
-Acre,VOTOS NULOS,7269,Nulos e Brancos 2006 Turno 2,2006,2
-Amazonas,VOTOS NULOS,25392,Nulos e Brancos 2006 Turno 2,2006,2
-Roraima,VOTOS NULOS,3641,Nulos e Brancos 2006 Turno 2,2006,2
-Pará,VOTOS NULOS,70981,Nulos e Brancos 2006 Turno 2,2006,2
-Amapá,VOTOS NULOS,5516,Nulos e Brancos 2006 Turno 2,2006,2
-Tocantins,VOTOS NULOS,17924,Nulos e Brancos 2006 Turno 2,2006,2
-Maranhão,VOTOS NULOS,253945,Nulos e Brancos 2006 Turno 2,2006,2
-Piauí,VOTOS NULOS,62121,Nulos e Brancos 2006 Turno 2,2006,2
-Ceará,VOTOS NULOS,126408,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Norte,VOTOS NULOS,147476,Nulos e Brancos 2006 Turno 2,2006,2
-Paraíba,VOTOS NULOS,134607,Nulos e Brancos 2006 Turno 2,2006,2
-Pernambuco,VOTOS NULOS,460108,Nulos e Brancos 2006 Turno 2,2006,2
-Alagoas,VOTOS NULOS,49892,Nulos e Brancos 2006 Turno 2,2006,2
-Sergipe,VOTOS NULOS,35102,Nulos e Brancos 2006 Turno 2,2006,2
-Bahia,VOTOS NULOS,267177,Nulos e Brancos 2006 Turno 2,2006,2
-Minas Gerais,VOTOS NULOS,395621,Nulos e Brancos 2006 Turno 2,2006,2
-Espirito Santo,VOTOS NULOS,43804,Nulos e Brancos 2006 Turno 2,2006,2
-Rio de Janeiro ,VOTOS NULOS,871469,Nulos e Brancos 2006 Turno 2,2006,2
-São Paulo,VOTOS NULOS,773627,Nulos e Brancos 2006 Turno 2,2006,2
-Paraná,VOTOS NULOS,302809,Nulos e Brancos 2006 Turno 2,2006,2
-Santa Catarina,VOTOS NULOS,226010,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Sul,VOTOS NULOS,147382,Nulos e Brancos 2006 Turno 2,2006,2
-M. G. do Sul,VOTOS NULOS,25256,Nulos e Brancos 2006 Turno 2,2006,2
-Mato Grosso,VOTOS NULOS,29645,Nulos e Brancos 2006 Turno 2,2006,2
-Goiás,VOTOS NULOS,223023,Nulos e Brancos 2006 Turno 2,2006,2
-Distrito Federal,VOTOS NULOS,37043,Nulos e Brancos 2006 Turno 2,2006,2
-Rondônia,VOTOS NOS CANDIDATOS,718133,Nulos e Brancos 2006 Turno 2,2006,2
-Acre,VOTOS NOS CANDIDATOS,289495,Nulos e Brancos 2006 Turno 2,2006,2
-Amazonas,VOTOS NOS CANDIDATOS,1336047,Nulos e Brancos 2006 Turno 2,2006,2
-Roraima,VOTOS NOS CANDIDATOS,173822,Nulos e Brancos 2006 Turno 2,2006,2
-Pará,VOTOS NOS CANDIDATOS,3060718,Nulos e Brancos 2006 Turno 2,2006,2
-Amapá,VOTOS NOS CANDIDATOS,272299,Nulos e Brancos 2006 Turno 2,2006,2
-Tocantins,VOTOS NOS CANDIDATOS,637640,Nulos e Brancos 2006 Turno 2,2006,2
-Maranhão,VOTOS NOS CANDIDATOS,2694628,Nulos e Brancos 2006 Turno 2,2006,2
-Piauí,VOTOS NOS CANDIDATOS,1573721,Nulos e Brancos 2006 Turno 2,2006,2
-Ceará,VOTOS NOS CANDIDATOS,4119997,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Norte,VOTOS NOS CANDIDATOS,1576362,Nulos e Brancos 2006 Turno 2,2006,2
-Paraíba,VOTOS NOS CANDIDATOS,1970902,Nulos e Brancos 2006 Turno 2,2006,2
-Pernambuco,VOTOS NOS CANDIDATOS,4155058,Nulos e Brancos 2006 Turno 2,2006,2
-Alagoas,VOTOS NOS CANDIDATOS,1338564,Nulos e Brancos 2006 Turno 2,2006,2
-Sergipe,VOTOS NOS CANDIDATOS,1016234,Nulos e Brancos 2006 Turno 2,2006,2
-Bahia,VOTOS NOS CANDIDATOS,6644731,Nulos e Brancos 2006 Turno 2,2006,2
-Minas Gerais,VOTOS NOS CANDIDATOS,10443645,Nulos e Brancos 2006 Turno 2,2006,2
-Espirito Santo,VOTOS NOS CANDIDATOS,1816311,Nulos e Brancos 2006 Turno 2,2006,2
-Rio de Janeiro ,VOTOS NOS CANDIDATOS,7938771,Nulos e Brancos 2006 Turno 2,2006,2
-São Paulo,VOTOS NOS CANDIDATOS,22381714,Nulos e Brancos 2006 Turno 2,2006,2
-Paraná,VOTOS NOS CANDIDATOS,5408120,Nulos e Brancos 2006 Turno 2,2006,2
-Santa Catarina,VOTOS NOS CANDIDATOS,3258120,Nulos e Brancos 2006 Turno 2,2006,2
-R. G. do Sul,VOTOS NOS CANDIDATOS,6297574,Nulos e Brancos 2006 Turno 2,2006,2
-M. G. do Sul,VOTOS NOS CANDIDATOS,1191457,Nulos e Brancos 2006 Turno 2,2006,2
-Mato Grosso,VOTOS NOS CANDIDATOS,1431161,Nulos e Brancos 2006 Turno 2,2006,2
-Goiás,VOTOS NOS CANDIDATOS,2711291,Nulos e Brancos 2006 Turno 2,2006,2
-Distrito Federal,VOTOS NOS CANDIDATOS,1343145,Nulos e Brancos 2006 Turno 2,2006,2
-Rondônia,COMPARECIMENTO,846351,Nulos e Brancos 2010 Turno 1,2010,1
-Acre,COMPARECIMENTO,363570,Nulos e Brancos 2010 Turno 1,2010,1
-Amazonas,COMPARECIMENTO,1621948,Nulos e Brancos 2010 Turno 1,2010,1
-Roraima,COMPARECIMENTO,233616,Nulos e Brancos 2010 Turno 1,2010,1
-Pará,COMPARECIMENTO,3754672,Nulos e Brancos 2010 Turno 1,2010,1
-Amapá,COMPARECIMENTO,357792,Nulos e Brancos 2010 Turno 1,2010,1
-Tocantins,COMPARECIMENTO,772644,Nulos e Brancos 2010 Turno 1,2010,1
-Maranhão,COMPARECIMENTO,3285100,Nulos e Brancos 2010 Turno 1,2010,1
-Piauí,COMPARECIMENTO,1813324,Nulos e Brancos 2010 Turno 1,2010,1
-Ceará,COMPARECIMENTO,4699435,Nulos e Brancos 2010 Turno 1,2010,1
-R. G. do Norte,COMPARECIMENTO,1877681,Nulos e Brancos 2010 Turno 1,2010,1
-Paraíba,COMPARECIMENTO,2232261,Nulos e Brancos 2010 Turno 1,2010,1
-Pernambuco,COMPARECIMENTO,5041936,Nulos e Brancos 2010 Turno 1,2010,1
-Alagoas,COMPARECIMENTO,1583844,Nulos e Brancos 2010 Turno 1,2010,1
-Sergipe,COMPARECIMENTO,1184869,Nulos e Brancos 2010 Turno 1,2010,1
-Bahia,COMPARECIMENTO,7486735,Nulos e Brancos 2010 Turno 1,2010,1
-Minas Gerais,COMPARECIMENTO,11838442,Nulos e Brancos 2010 Turno 1,2010,1
-Espirito Santo,COMPARECIMENTO,2083045,Nulos e Brancos 2010 Turno 1,2010,1
-Rio de Janeiro ,COMPARECIMENTO,9572486,Nulos e Brancos 2010 Turno 1,2010,1
-São Paulo,COMPARECIMENTO,25310267,Nulos e Brancos 2010 Turno 1,2010,1
-Paraná,COMPARECIMENTO,6347623,Nulos e Brancos 2010 Turno 1,2010,1
-Santa Catarina,COMPARECIMENTO,3900064,Nulos e Brancos 2010 Turno 1,2010,1
-R. G. do Sul,COMPARECIMENTO,6902902,Nulos e Brancos 2010 Turno 1,2010,1
-M. G. do Sul,COMPARECIMENTO,1392464,Nulos e Brancos 2010 Turno 1,2010,1
-Mato Grosso,COMPARECIMENTO,1655212,Nulos e Brancos 2010 Turno 1,2010,1
-Goiás,COMPARECIMENTO,3329636,Nulos e Brancos 2010 Turno 1,2010,1
-Distrito Federal,COMPARECIMENTO,1550765,Nulos e Brancos 2010 Turno 1,2010,1
+Rondônia, Luiz Inácio Lula da Silva PT (PRB-PCdoB),329598,Presidente,2006,1
+Acre, Luiz Inácio Lula da Silva PT (PRB-PCdoB),133221,Presidente,2006,1
+Amazonas, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1070656,Presidente,2006,1
+Roraima, Luiz Inácio Lula da Silva PT (PRB-PCdoB),49433,Presidente,2006,1
+Pará, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1631569,Presidente,2006,1
+Amapá, Luiz Inácio Lula da Silva PT (PRB-PCdoB),160675,Presidente,2006,1
+Tocantins, Luiz Inácio Lula da Silva PT (PRB-PCdoB),392151,Presidente,2006,1
+Maranhão, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2128103,Presidente,2006,1
+Piauí, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1055600,Presidente,2006,1
+Ceará, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2852895,Presidente,2006,1
+R. G. do Norte, Luiz Inácio Lula da Silva PT (PRB-PCdoB),952796,Presidente,2006,1
+Paraíba, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1258341,Presidente,2006,1
+Pernambuco, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2993618,Presidente,2006,1
+Alagoas, Luiz Inácio Lula da Silva PT (PRB-PCdoB),625162,Presidente,2006,1
+Sergipe, Luiz Inácio Lula da Silva PT (PRB-PCdoB),476399,Presidente,2006,1
+Bahia, Luiz Inácio Lula da Silva PT (PRB-PCdoB),4293200,Presidente,2006,1
+Minas Gerais, Luiz Inácio Lula da Silva PT (PRB-PCdoB),5192439,Presidente,2006,1
+Espirito Santo, Luiz Inácio Lula da Silva PT (PRB-PCdoB),953609,Presidente,2006,1
+Rio de Janeiro , Luiz Inácio Lula da Silva PT (PRB-PCdoB),4092648,Presidente,2006,1
+São Paulo, Luiz Inácio Lula da Silva PT (PRB-PCdoB),8091867,Presidente,2006,1
+Paraná, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2111589,Presidente,2006,1
+Santa Catarina, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1108851,Presidente,2006,1
+R. G. do Sul, Luiz Inácio Lula da Silva PT (PRB-PCdoB),2052656,Presidente,2006,1
+Mato Grosso, Luiz Inácio Lula da Silva PT (PRB-PCdoB),557244,Presidente,2006,1
+Mato Grosso do Sul, Luiz Inácio Lula da Silva PT (PRB-PCdoB),439965,Presidente,2006,1
+Goiás, Luiz Inácio Lula da Silva PT (PRB-PCdoB),1143122,Presidente,2006,1
+Distrito Federal, Luiz Inácio Lula da Silva PT (PRB-PCdoB),499407,Presidente,2006,1
 Rondônia,ABSTENÇÃO,231997,Nulos e Brancos 2010 Turno 1,2010,1
 Acre,ABSTENÇÃO,106975,Nulos e Brancos 2010 Turno 1,2010,1
 Amazonas,ABSTENÇÃO,406174,Nulos e Brancos 2010 Turno 1,2010,1
@@ -1256,195 +621,33 @@ M. G. do Sul,VOTOS NULOS,63829,Nulos e Brancos 2010 Turno 1,2010,1
 Mato Grosso,VOTOS NULOS,85891,Nulos e Brancos 2010 Turno 1,2010,1
 Goiás,VOTOS NULOS,161985,Nulos e Brancos 2010 Turno 1,2010,1
 Distrito Federal,VOTOS NULOS,60032,Nulos e Brancos 2010 Turno 1,2010,1
-Rondônia,Dilma Rousseff (PT),321712,Presidente,2010,Turno 1
-Acre,Dilma Rousseff (PT),82733,Presidente,2010,Turno 1
-Amazonas,Dilma Rousseff (PT),991128,Presidente,2010,Turno 1
-Roraima,Dilma Rousseff (PT),63927,Presidente,2010,Turno 1
-Pará,Dilma Rousseff (PT),1699799,Presidente,2010,Turno 1
-Amapá,Dilma Rousseff (PT),161443,Presidente,2010,Turno 1
-Tocantins,Dilma Rousseff (PT),362383,Presidente,2010,Turno 1
-Maranhão,Dilma Rousseff (PT),2079650,Presidente,2010,Turno 1
-Piauí,Dilma Rousseff (PT),1088205,Presidente,2010,Turno 1
-Ceará,Dilma Rousseff (PT),2783451,Presidente,2010,Turno 1
-R. G. do Norte,Dilma Rousseff (PT),846416,Presidente,2010,Turno 1
-Paraíba,Dilma Rousseff (PT),1031185,Presidente,2010,Turno 1
-Pernambuco,Dilma Rousseff (PT),2748751,Presidente,2010,Turno 1
-Alagoas,Dilma Rousseff (PT),709844,Presidente,2010,Turno 1
-Sergipe,Dilma Rousseff (PT),506802,Presidente,2010,Turno 1
-Bahia,Dilma Rousseff (PT),4188099,Presidente,2010,Turno 1
-Minas Gerais,Dilma Rousseff (PT),5067399,Presidente,2010,Turno 1
-Espirito Santo,Dilma Rousseff (PT),717417,Presidente,2010,Turno 1
-Rio de Janeiro ,Dilma Rousseff (PT),3739632,Presidente,2010,Turno 1
-São Paulo,Dilma Rousseff (PT),8740949,Presidente,2010,Turno 1
-Paraná,Dilma Rousseff (PT),2311239,Presidente,2010,Turno 1
-Santa Catarina,Dilma Rousseff (PT),1402566,Presidente,2010,Turno 1
-R. G. do Sul,Dilma Rousseff (PT),3007263,Presidente,2010,Turno 1
-M. G. do Sul,Dilma Rousseff (PT),518877,Presidente,2010,Turno 1
-Mato Grosso,Dilma Rousseff (PT),659771,Presidente,2010,Turno 1
-Goiás,Dilma Rousseff (PT),1301985,Presidente,2010,Turno 1
-Distrito Federal,Dilma Rousseff (PT),462441,Presidente,2010,Turno 1
-Rondônia,COMPARECIMENTO,801952,Nulos e Brancos 2010 Turno 2,2010,2
-Acre,COMPARECIMENTO,335883,Nulos e Brancos 2010 Turno 2,2010,2
-Amazonas,COMPARECIMENTO,1484513,Nulos e Brancos 2010 Turno 2,2010,2
-Roraima,COMPARECIMENTO,221679,Nulos e Brancos 2010 Turno 2,2010,2
-Pará,COMPARECIMENTO,3487580,Nulos e Brancos 2010 Turno 2,2010,2
-Amapá,COMPARECIMENTO,338553,Nulos e Brancos 2010 Turno 2,2010,2
-Tocantins,COMPARECIMENTO,696563,Nulos e Brancos 2010 Turno 2,2010,2
-Maranhão,COMPARECIMENTO,3045073,Nulos e Brancos 2010 Turno 2,2010,2
-Piauí,COMPARECIMENTO,1744686,Nulos e Brancos 2010 Turno 2,2010,2
-Ceará,COMPARECIMENTO,4519588,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Norte,COMPARECIMENTO,1761265,Nulos e Brancos 2010 Turno 2,2010,2
-Paraíba,COMPARECIMENTO,2217140,Nulos e Brancos 2010 Turno 2,2010,2
-Pernambuco,COMPARECIMENTO,4882441,Nulos e Brancos 2010 Turno 2,2010,2
-Alagoas,COMPARECIMENTO,1496646,Nulos e Brancos 2010 Turno 2,2010,2
-Sergipe,COMPARECIMENTO,1130391,Nulos e Brancos 2010 Turno 2,2010,2
-Bahia,COMPARECIMENTO,7175205,Nulos e Brancos 2010 Turno 2,2010,2
-Minas Gerais,COMPARECIMENTO,11469141,Nulos e Brancos 2010 Turno 2,2010,2
-Espirito Santo,COMPARECIMENTO,1994327,Nulos e Brancos 2010 Turno 2,2010,2
-Rio de Janeiro ,COMPARECIMENTO,9148177,Nulos e Brancos 2010 Turno 2,2010,2
-São Paulo,COMPARECIMENTO,24488829,Nulos e Brancos 2010 Turno 2,2010,2
-Paraná,COMPARECIMENTO,6106683,Nulos e Brancos 2010 Turno 2,2010,2
-Santa Catarina,COMPARECIMENTO,3770583,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Sul,COMPARECIMENTO,6671600,Nulos e Brancos 2010 Turno 2,2010,2
-M. G. do Sul,COMPARECIMENTO,1290433,Nulos e Brancos 2010 Turno 2,2010,2
-Mato Grosso,COMPARECIMENTO,1548459,Nulos e Brancos 2010 Turno 2,2010,2
-Goiás,COMPARECIMENTO,3158104,Nulos e Brancos 2010 Turno 2,2010,2
-Distrito Federal,COMPARECIMENTO,1479989,Nulos e Brancos 2010 Turno 2,2010,2
-Rondônia,ABSTENÇÃO,276450,Nulos e Brancos 2010 Turno 2,2010,2
-Acre,ABSTENÇÃO,134317,Nulos e Brancos 2010 Turno 2,2010,2
-Amazonas,ABSTENÇÃO,543726,Nulos e Brancos 2010 Turno 2,2010,2
-Roraima,ABSTENÇÃO,49924,Nulos e Brancos 2010 Turno 2,2010,2
-Pará,ABSTENÇÃO,1275991,Nulos e Brancos 2010 Turno 2,2010,2
-Amapá,ABSTENÇÃO,81796,Nulos e Brancos 2010 Turno 2,2010,2
-Tocantins,ABSTENÇÃO,251365,Nulos e Brancos 2010 Turno 2,2010,2
-Maranhão,ABSTENÇÃO,1275532,Nulos e Brancos 2010 Turno 2,2010,2
-Piauí,ABSTENÇÃO,517245,Nulos e Brancos 2010 Turno 2,2010,2
-Ceará,ABSTENÇÃO,1358604,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Norte,ABSTENÇÃO,483909,Nulos e Brancos 2010 Turno 2,2010,2
-Paraíba,ABSTENÇÃO,521249,Nulos e Brancos 2010 Turno 2,2010,2
-Pernambuco,ABSTENÇÃO,1373943,Nulos e Brancos 2010 Turno 2,2010,2
-Alagoas,ABSTENÇÃO,536872,Nulos e Brancos 2010 Turno 2,2010,2
-Sergipe,ABSTENÇÃO,294968,Nulos e Brancos 2010 Turno 2,2010,2
-Bahia,ABSTENÇÃO,2369486,Nulos e Brancos 2010 Turno 2,2010,2
-Minas Gerais,ABSTENÇÃO,3045244,Nulos e Brancos 2010 Turno 2,2010,2
-Espirito Santo,ABSTENÇÃO,527745,Nulos e Brancos 2010 Turno 2,2010,2
-Rio de Janeiro ,ABSTENÇÃO,2436258,Nulos e Brancos 2010 Turno 2,2010,2
-São Paulo,ABSTENÇÃO,5801614,Nulos e Brancos 2010 Turno 2,2010,2
-Paraná,ABSTENÇÃO,1491451,Nulos e Brancos 2010 Turno 2,2010,2
-Santa Catarina,ABSTENÇÃO,766246,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Sul,ABSTENÇÃO,1436185,Nulos e Brancos 2010 Turno 2,2010,2
-M. G. do Sul,ABSTENÇÃO,410546,Nulos e Brancos 2010 Turno 2,2010,2
-Mato Grosso,ABSTENÇÃO,545646,Nulos e Brancos 2010 Turno 2,2010,2
-Goiás,ABSTENÇÃO,900924,Nulos e Brancos 2010 Turno 2,2010,2
-Distrito Federal,ABSTENÇÃO,354146,Nulos e Brancos 2010 Turno 2,2010,2
-Rondônia,VOTOS EM BRANCO,12997,Nulos e Brancos 2010 Turno 2,2010,2
-Acre,VOTOS EM BRANCO,3563,Nulos e Brancos 2010 Turno 2,2010,2
-Amazonas,VOTOS EM BRANCO,30369,Nulos e Brancos 2010 Turno 2,2010,2
-Roraima,VOTOS EM BRANCO,2507,Nulos e Brancos 2010 Turno 2,2010,2
-Pará,VOTOS EM BRANCO,40412,Nulos e Brancos 2010 Turno 2,2010,2
-Amapá,VOTOS EM BRANCO,4443,Nulos e Brancos 2010 Turno 2,2010,2
-Tocantins,VOTOS EM BRANCO,9455,Nulos e Brancos 2010 Turno 2,2010,2
-Maranhão,VOTOS EM BRANCO,41114,Nulos e Brancos 2010 Turno 2,2010,2
-Piauí,VOTOS EM BRANCO,26645,Nulos e Brancos 2010 Turno 2,2010,2
-Ceará,VOTOS EM BRANCO,91042,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Norte,VOTOS EM BRANCO,40639,Nulos e Brancos 2010 Turno 2,2010,2
-Paraíba,VOTOS EM BRANCO,53447,Nulos e Brancos 2010 Turno 2,2010,2
-Pernambuco,VOTOS EM BRANCO,133692,Nulos e Brancos 2010 Turno 2,2010,2
-Alagoas,VOTOS EM BRANCO,32120,Nulos e Brancos 2010 Turno 2,2010,2
-Sergipe,VOTOS EM BRANCO,23787,Nulos e Brancos 2010 Turno 2,2010,2
-Bahia,VOTOS EM BRANCO,146826,Nulos e Brancos 2010 Turno 2,2010,2
-Minas Gerais,VOTOS EM BRANCO,297028,Nulos e Brancos 2010 Turno 2,2010,2
-Espirito Santo,VOTOS EM BRANCO,52573,Nulos e Brancos 2010 Turno 2,2010,2
-Rio de Janeiro ,VOTOS EM BRANCO,313497,Nulos e Brancos 2010 Turno 2,2010,2
-São Paulo,VOTOS EM BRANCO,618538,Nulos e Brancos 2010 Turno 2,2010,2
-Paraná,VOTOS EM BRANCO,112620,Nulos e Brancos 2010 Turno 2,2010,2
-Santa Catarina,VOTOS EM BRANCO,67252,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Sul,VOTOS EM BRANCO,148409,Nulos e Brancos 2010 Turno 2,2010,2
-M. G. do Sul,VOTOS EM BRANCO,19080,Nulos e Brancos 2010 Turno 2,2010,2
-Mato Grosso,VOTOS EM BRANCO,20082,Nulos e Brancos 2010 Turno 2,2010,2
-Goiás,VOTOS EM BRANCO,61595,Nulos e Brancos 2010 Turno 2,2010,2
-Distrito Federal,VOTOS EM BRANCO,45821,Nulos e Brancos 2010 Turno 2,2010,2
-Rondônia,VOTOS NULOS,56082,Nulos e Brancos 2010 Turno 2,2010,2
-Acre,VOTOS NULOS,12585,Nulos e Brancos 2010 Turno 2,2010,2
-Amazonas,VOTOS NULOS,37204,Nulos e Brancos 2010 Turno 2,2010,2
-Roraima,VOTOS NULOS,5996,Nulos e Brancos 2010 Turno 2,2010,2
-Pará,VOTOS NULOS,79571,Nulos e Brancos 2010 Turno 2,2010,2
-Amapá,VOTOS NULOS,17106,Nulos e Brancos 2010 Turno 2,2010,2
-Tocantins,VOTOS NULOS,22523,Nulos e Brancos 2010 Turno 2,2010,2
-Maranhão,VOTOS NULOS,103364,Nulos e Brancos 2010 Turno 2,2010,2
-Piauí,VOTOS NULOS,128569,Nulos e Brancos 2010 Turno 2,2010,2
-Ceará,VOTOS NULOS,177247,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Norte,VOTOS NULOS,75128,Nulos e Brancos 2010 Turno 2,2010,2
-Paraíba,VOTOS NULOS,166383,Nulos e Brancos 2010 Turno 2,2010,2
-Pernambuco,VOTOS NULOS,177561,Nulos e Brancos 2010 Turno 2,2010,2
-Alagoas,VOTOS NULOS,89922,Nulos e Brancos 2010 Turno 2,2010,2
-Sergipe,VOTOS NULOS,44462,Nulos e Brancos 2010 Turno 2,2010,2
-Bahia,VOTOS NULOS,342716,Nulos e Brancos 2010 Turno 2,2010,2
-Minas Gerais,VOTOS NULOS,529422,Nulos e Brancos 2010 Turno 2,2010,2
-Espirito Santo,VOTOS NULOS,62285,Nulos e Brancos 2010 Turno 2,2010,2
-Rio de Janeiro ,VOTOS NULOS,676712,Nulos e Brancos 2010 Turno 2,2010,2
-São Paulo,VOTOS NULOS,1099361,Nulos e Brancos 2010 Turno 2,2010,2
-Paraná,VOTOS NULOS,174761,Nulos e Brancos 2010 Turno 2,2010,2
-Santa Catarina,VOTOS NULOS,116970,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Sul,VOTOS NULOS,168223,Nulos e Brancos 2010 Turno 2,2010,2
-M. G. do Sul,VOTOS NULOS,33765,Nulos e Brancos 2010 Turno 2,2010,2
-Mato Grosso,VOTOS NULOS,35725,Nulos e Brancos 2010 Turno 2,2010,2
-Goiás,VOTOS NULOS,159963,Nulos e Brancos 2010 Turno 2,2010,2
-Distrito Federal,VOTOS NULOS,92195,Nulos e Brancos 2010 Turno 2,2010,2
-Rondônia,VOTOS NOS CANDIDATOS,732873,Nulos e Brancos 2010 Turno 2,2010,2
-Acre,VOTOS NOS CANDIDATOS,319735,Nulos e Brancos 2010 Turno 2,2010,2
-Amazonas,VOTOS NOS CANDIDATOS,1416940,Nulos e Brancos 2010 Turno 2,2010,2
-Roraima,VOTOS NOS CANDIDATOS,213176,Nulos e Brancos 2010 Turno 2,2010,2
-Pará,VOTOS NOS CANDIDATOS,3367597,Nulos e Brancos 2010 Turno 2,2010,2
-Amapá,VOTOS NOS CANDIDATOS,317004,Nulos e Brancos 2010 Turno 2,2010,2
-Tocantins,VOTOS NOS CANDIDATOS,664585,Nulos e Brancos 2010 Turno 2,2010,2
-Maranhão,VOTOS NOS CANDIDATOS,2900595,Nulos e Brancos 2010 Turno 2,2010,2
-Piauí,VOTOS NOS CANDIDATOS,1589472,Nulos e Brancos 2010 Turno 2,2010,2
-Ceará,VOTOS NOS CANDIDATOS,4251299,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Norte,VOTOS NOS CANDIDATOS,1645498,Nulos e Brancos 2010 Turno 2,2010,2
-Paraíba,VOTOS NOS CANDIDATOS,1997310,Nulos e Brancos 2010 Turno 2,2010,2
-Pernambuco,VOTOS NOS CANDIDATOS,4571188,Nulos e Brancos 2010 Turno 2,2010,2
-Alagoas,VOTOS NOS CANDIDATOS,1374604,Nulos e Brancos 2010 Turno 2,2010,2
-Sergipe,VOTOS NOS CANDIDATOS,1062142,Nulos e Brancos 2010 Turno 2,2010,2
-Bahia,VOTOS NOS CANDIDATOS,6685663,Nulos e Brancos 2010 Turno 2,2010,2
-Minas Gerais,VOTOS NOS CANDIDATOS,10642419,Nulos e Brancos 2010 Turno 2,2010,2
-Espirito Santo,VOTOS NOS CANDIDATOS,1879469,Nulos e Brancos 2010 Turno 2,2010,2
-Rio de Janeiro ,VOTOS NOS CANDIDATOS,8157968,Nulos e Brancos 2010 Turno 2,2010,2
-São Paulo,VOTOS NOS CANDIDATOS,22770930,Nulos e Brancos 2010 Turno 2,2010,2
-Paraná,VOTOS NOS CANDIDATOS,5819302,Nulos e Brancos 2010 Turno 2,2010,2
-Santa Catarina,VOTOS NOS CANDIDATOS,3586361,Nulos e Brancos 2010 Turno 2,2010,2
-R. G. do Sul,VOTOS NOS CANDIDATOS,6354968,Nulos e Brancos 2010 Turno 2,2010,2
-M. G. do Sul,VOTOS NOS CANDIDATOS,1237588,Nulos e Brancos 2010 Turno 2,2010,2
-Mato Grosso,VOTOS NOS CANDIDATOS,1492652,Nulos e Brancos 2010 Turno 2,2010,2
-Goiás,VOTOS NOS CANDIDATOS,2936546,Nulos e Brancos 2010 Turno 2,2010,2
-Distrito Federal,VOTOS NOS CANDIDATOS,1341973,Nulos e Brancos 2010 Turno 2,2010,2
-Rondônia,COMPARECIMENTO,885929,Nulos e Brancos 2014 Turno 1,2014,1
-Acre,COMPARECIMENTO,418772,Nulos e Brancos 2014 Turno 1,2014,1
-Amazonas,COMPARECIMENTO,1791817,Nulos e Brancos 2014 Turno 1,2014,1
-Roraima,COMPARECIMENTO,262194,Nulos e Brancos 2014 Turno 1,2014,1
-Pará,COMPARECIMENTO,4091843,Nulos e Brancos 2014 Turno 1,2014,1
-Amapá,COMPARECIMENTO,407846,Nulos e Brancos 2014 Turno 1,2014,1
-Tocantins,COMPARECIMENTO,801084,Nulos e Brancos 2014 Turno 1,2014,1
-Maranhão,COMPARECIMENTO,3433672,Nulos e Brancos 2014 Turno 1,2014,1
-Piauí,COMPARECIMENTO,1901414,Nulos e Brancos 2014 Turno 1,2014,1
-Ceará,COMPARECIMENTO,5007565,Nulos e Brancos 2014 Turno 1,2014,1
-R. G. do Norte,COMPARECIMENTO,1935105,Nulos e Brancos 2014 Turno 1,2014,1
-Paraíba,COMPARECIMENTO,2334522,Nulos e Brancos 2014 Turno 1,2014,1
-Pernambuco,COMPARECIMENTO,5304380,Nulos e Brancos 2014 Turno 1,2014,1
-Alagoas,COMPARECIMENTO,1612496,Nulos e Brancos 2014 Turno 1,2014,1
-Sergipe,COMPARECIMENTO,1239891,Nulos e Brancos 2014 Turno 1,2014,1
-Bahia,COMPARECIMENTO,7818832,Nulos e Brancos 2014 Turno 1,2014,1
-Minas Gerais,COMPARECIMENTO,12186182,Nulos e Brancos 2014 Turno 1,2014,1
-Espirito Santo,COMPARECIMENTO,2150247,Nulos e Brancos 2014 Turno 1,2014,1
-Rio de Janeiro ,COMPARECIMENTO,9693862,Nulos e Brancos 2014 Turno 1,2014,1
-São Paulo,COMPARECIMENTO,25736781,Nulos e Brancos 2014 Turno 1,2014,1
-Paraná,COMPARECIMENTO,6536251,Nulos e Brancos 2014 Turno 1,2014,1
-Santa Catarina,COMPARECIMENTO,4058912,Nulos e Brancos 2014 Turno 1,2014,1
-R. G. do Sul,COMPARECIMENTO,6976843,Nulos e Brancos 2014 Turno 1,2014,1
-M. G. do Sul,COMPARECIMENTO,1444320,Nulos e Brancos 2014 Turno 1,2014,1
-Mato Grosso,COMPARECIMENTO,1686876,Nulos e Brancos 2014 Turno 1,2014,1
-Goiás,COMPARECIMENTO,3514438,Nulos e Brancos 2014 Turno 1,2014,1
-Distrito Federal,COMPARECIMENTO,1674508,Nulos e Brancos 2014 Turno 1,2014,1
+Rondônia,Dilma Rousseff (PT),321712,Presidente,2010,1
+Acre,Dilma Rousseff (PT),82733,Presidente,2010,1
+Amazonas,Dilma Rousseff (PT),991128,Presidente,2010,1
+Roraima,Dilma Rousseff (PT),63927,Presidente,2010,1
+Pará,Dilma Rousseff (PT),1699799,Presidente,2010,1
+Amapá,Dilma Rousseff (PT),161443,Presidente,2010,1
+Tocantins,Dilma Rousseff (PT),362383,Presidente,2010,1
+Maranhão,Dilma Rousseff (PT),2079650,Presidente,2010,1
+Piauí,Dilma Rousseff (PT),1088205,Presidente,2010,1
+Ceará,Dilma Rousseff (PT),2783451,Presidente,2010,1
+R. G. do Norte,Dilma Rousseff (PT),846416,Presidente,2010,1
+Paraíba,Dilma Rousseff (PT),1031185,Presidente,2010,1
+Pernambuco,Dilma Rousseff (PT),2748751,Presidente,2010,1
+Alagoas,Dilma Rousseff (PT),709844,Presidente,2010,1
+Sergipe,Dilma Rousseff (PT),506802,Presidente,2010,1
+Bahia,Dilma Rousseff (PT),4188099,Presidente,2010,1
+Minas Gerais,Dilma Rousseff (PT),5067399,Presidente,2010,1
+Espirito Santo,Dilma Rousseff (PT),717417,Presidente,2010,1
+Rio de Janeiro ,Dilma Rousseff (PT),3739632,Presidente,2010,1
+São Paulo,Dilma Rousseff (PT),8740949,Presidente,2010,1
+Paraná,Dilma Rousseff (PT),2311239,Presidente,2010,1
+Santa Catarina,Dilma Rousseff (PT),1402566,Presidente,2010,1
+R. G. do Sul,Dilma Rousseff (PT),3007263,Presidente,2010,1
+M. G. do Sul,Dilma Rousseff (PT),518877,Presidente,2010,1
+Mato Grosso,Dilma Rousseff (PT),659771,Presidente,2010,1
+Goiás,Dilma Rousseff (PT),1301985,Presidente,2010,1
+Distrito Federal,Dilma Rousseff (PT),462441,Presidente,2010,1
 Rondônia,ABSTENÇÃO,240573,Nulos e Brancos 2014 Turno 1,2014,1
 Acre,ABSTENÇÃO,87748,Nulos e Brancos 2014 Turno 1,2014,1
 Amazonas,ABSTENÇÃO,433813,Nulos e Brancos 2014 Turno 1,2014,1
@@ -1526,165 +729,30 @@ M. G. do Sul,VOTOS NULOS,52791,Nulos e Brancos 2014 Turno 1,2014,1
 Mato Grosso,VOTOS NULOS,82511,Nulos e Brancos 2014 Turno 1,2014,1
 Goiás,VOTOS NULOS,171467,Nulos e Brancos 2014 Turno 1,2014,1
 Distrito Federal,VOTOS NULOS,61555,Nulos e Brancos 2014 Turno 1,2014,1
-Rondônia,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),345167,Presidente,2014,Turno 1
-Acre,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),111610,Presidente,2014,Turno 1
-Amazonas,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),915030,Presidente,2014,Turno 1
-Roraima,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),82857,Presidente,2014,Turno 1
-Pará,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2040696,Presidente,2014,Turno 1
-Amapá,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),198939,Presidente,2014,Turno 1
-Tocantins,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),368348,Presidente,2014,Turno 1
-Maranhão,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2187668,Presidente,2014,Turno 1
-Piauí,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1235203,Presidente,2014,Turno 1
-Ceará,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),3087115,Presidente,2014,Turno 1
-R. G. do Norte,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),999452,Presidente,2014,Turno 1
-Paraíba,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1166632,Presidente,2014,Turno 1
-Pernambuco,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2126491,Presidente,2014,Turno 1
-Alagoas,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),703674,Presidente,2014,Turno 1
-Sergipe,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),601578,Presidente,2014,Turno 1
-Bahia,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),4292325,Presidente,2014,Turno 1
-Minas Gerais,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),4829513,Presidente,2014,Turno 1
-Espirito Santo,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),653469,Presidente,2014,Turno 1
-Rio de Janeiro ,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2970486,Presidente,2014,Turno 1
-São Paulo,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),5927503,Presidente,2014,Turno 1
-Paraná,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1972761,Presidente,2014,Turno 1
-Santa Catarina,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1140432,Presidente,2014,Turno 1
-R. G. do Sul,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2751098,Presidente,2014,Turno 1
-M. G. do Sul,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),506951,Presidente,2014,Turno 1
-Mato Grosso,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),616265,Presidente,2014,Turno 1
-Goiás,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1035673,Presidente,2014,Turno 1
-Distrito Federal,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),362511,Presidente,2014,Turno 1
-Rondônia,COMPARECIMENTO,852217,Nulos e Brancos 2014 Turno 2,2014,2
-Acre,COMPARECIMENTO,394157,Nulos e Brancos 2014 Turno 2,2014,2
-Amazonas,COMPARECIMENTO,1722286,Nulos e Brancos 2014 Turno 2,2014,2
-Roraima,COMPARECIMENTO,250228,Nulos e Brancos 2014 Turno 2,2014,2
-Pará,COMPARECIMENTO,3877989,Nulos e Brancos 2014 Turno 2,2014,2
-Amapá,COMPARECIMENTO,389080,Nulos e Brancos 2014 Turno 2,2014,2
-Tocantins,COMPARECIMENTO,750004,Nulos e Brancos 2014 Turno 2,2014,2
-Maranhão,COMPARECIMENTO,3265307,Nulos e Brancos 2014 Turno 2,2014,2
-Piauí,COMPARECIMENTO,1846232,Nulos e Brancos 2014 Turno 2,2014,2
-Ceará,COMPARECIMENTO,4905479,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Norte,COMPARECIMENTO,1915732,Nulos e Brancos 2014 Turno 2,2014,2
-Paraíba,COMPARECIMENTO,2324672,Nulos e Brancos 2014 Turno 2,2014,2
-Pernambuco,COMPARECIMENTO,5225283,Nulos e Brancos 2014 Turno 2,2014,2
-Alagoas,COMPARECIMENTO,1603589,Nulos e Brancos 2014 Turno 2,2014,2
-Sergipe,COMPARECIMENTO,1222404,Nulos e Brancos 2014 Turno 2,2014,2
-Bahia,COMPARECIMENTO,7654200,Nulos e Brancos 2014 Turno 2,2014,2
-Minas Gerais,COMPARECIMENTO,12012050,Nulos e Brancos 2014 Turno 2,2014,2
-Espirito Santo,COMPARECIMENTO,2075765,Nulos e Brancos 2014 Turno 2,2014,2
-Rio de Janeiro ,COMPARECIMENTO,9421190,Nulos e Brancos 2014 Turno 2,2014,2
-São Paulo,COMPARECIMENTO,25422496,Nulos e Brancos 2014 Turno 2,2014,2
-Paraná,COMPARECIMENTO,6412571,Nulos e Brancos 2014 Turno 2,2014,2
-Santa Catarina,COMPARECIMENTO,3988845,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Sul,COMPARECIMENTO,6860298,Nulos e Brancos 2014 Turno 2,2014,2
-M. G. do Sul,COMPARECIMENTO,1397180,Nulos e Brancos 2014 Turno 2,2014,2
-Mato Grosso,COMPARECIMENTO,1631824,Nulos e Brancos 2014 Turno 2,2014,2
-Goiás,COMPARECIMENTO,3397505,Nulos e Brancos 2014 Turno 2,2014,2
-Distrito Federal,COMPARECIMENTO,1656361,Nulos e Brancos 2014 Turno 2,2014,2
-Rondônia,ABSTENÇÃO,274325,Nulos e Brancos 2014 Turno 2,2014,2
-Acre,ABSTENÇÃO,112365,Nulos e Brancos 2014 Turno 2,2014,2
-Amazonas,ABSTENÇÃO,503405,Nulos e Brancos 2014 Turno 2,2014,2
-Roraima,ABSTENÇÃO,49191,Nulos e Brancos 2014 Turno 2,2014,2
-Pará,ABSTENÇÃO,1308042,Nulos e Brancos 2014 Turno 2,2014,2
-Amapá,ABSTENÇÃO,66288,Nulos e Brancos 2014 Turno 2,2014,2
-Tocantins,ABSTENÇÃO,246386,Nulos e Brancos 2014 Turno 2,2014,2
-Maranhão,ABSTENÇÃO,1230596,Nulos e Brancos 2014 Turno 2,2014,2
-Piauí,ABSTENÇÃO,498273,Nulos e Brancos 2014 Turno 2,2014,2
-Ceará,ABSTENÇÃO,1363558,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Norte,ABSTENÇÃO,410927,Nulos e Brancos 2014 Turno 2,2014,2
-Paraíba,ABSTENÇÃO,510208,Nulos e Brancos 2014 Turno 2,2014,2
-Pernambuco,ABSTENÇÃO,1128804,Nulos e Brancos 2014 Turno 2,2014,2
-Alagoas,ABSTENÇÃO,391592,Nulos e Brancos 2014 Turno 2,2014,2
-Sergipe,ABSTENÇÃO,231229,Nulos e Brancos 2014 Turno 2,2014,2
-Bahia,ABSTENÇÃO,2525443,Nulos e Brancos 2014 Turno 2,2014,2
-Minas Gerais,ABSTENÇÃO,3225049,Nulos e Brancos 2014 Turno 2,2014,2
-Espirito Santo,ABSTENÇÃO,575959,Nulos e Brancos 2014 Turno 2,2014,2
-Rio de Janeiro ,ABSTENÇÃO,2713771,Nulos e Brancos 2014 Turno 2,2014,2
-São Paulo,ABSTENÇÃO,6558345,Nulos e Brancos 2014 Turno 2,2014,2
-Paraná,ABSTENÇÃO,1448941,Nulos e Brancos 2014 Turno 2,2014,2
-Santa Catarina,ABSTENÇÃO,867106,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Sul,ABSTENÇÃO,1525358,Nulos e Brancos 2014 Turno 2,2014,2
-M. G. do Sul,ABSTENÇÃO,420367,Nulos e Brancos 2014 Turno 2,2014,2
-Mato Grosso,ABSTENÇÃO,556522,Nulos e Brancos 2014 Turno 2,2014,2
-Goiás,ABSTENÇÃO,932427,Nulos e Brancos 2014 Turno 2,2014,2
-Distrito Federal,ABSTENÇÃO,239633,Nulos e Brancos 2014 Turno 2,2014,2
-Rondônia,VOTOS EM BRANCO,10003,Nulos e Brancos 2014 Turno 2,2014,2
-Acre,VOTOS EM BRANCO,3478,Nulos e Brancos 2014 Turno 2,2014,2
-Amazonas,VOTOS EM BRANCO,27145,Nulos e Brancos 2014 Turno 2,2014,2
-Roraima,VOTOS EM BRANCO,2269,Nulos e Brancos 2014 Turno 2,2014,2
-Pará,VOTOS EM BRANCO,42600,Nulos e Brancos 2014 Turno 2,2014,2
-Amapá,VOTOS EM BRANCO,3182,Nulos e Brancos 2014 Turno 2,2014,2
-Tocantins,VOTOS EM BRANCO,6854,Nulos e Brancos 2014 Turno 2,2014,2
-Maranhão,VOTOS EM BRANCO,34449,Nulos e Brancos 2014 Turno 2,2014,2
-Piauí,VOTOS EM BRANCO,15918,Nulos e Brancos 2014 Turno 2,2014,2
-Ceará,VOTOS EM BRANCO,69307,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Norte,VOTOS EM BRANCO,34825,Nulos e Brancos 2014 Turno 2,2014,2
-Paraíba,VOTOS EM BRANCO,43718,Nulos e Brancos 2014 Turno 2,2014,2
-Pernambuco,VOTOS EM BRANCO,102040,Nulos e Brancos 2014 Turno 2,2014,2
-Alagoas,VOTOS EM BRANCO,24998,Nulos e Brancos 2014 Turno 2,2014,2
-Sergipe,VOTOS EM BRANCO,19088,Nulos e Brancos 2014 Turno 2,2014,2
-Bahia,VOTOS EM BRANCO,109102,Nulos e Brancos 2014 Turno 2,2014,2
-Minas Gerais,VOTOS EM BRANCO,176025,Nulos e Brancos 2014 Turno 2,2014,2
-Espirito Santo,VOTOS EM BRANCO,36408,Nulos e Brancos 2014 Turno 2,2014,2
-Rio de Janeiro ,VOTOS EM BRANCO,261599,Nulos e Brancos 2014 Turno 2,2014,2
-São Paulo,VOTOS EM BRANCO,500950,Nulos e Brancos 2014 Turno 2,2014,2
-Paraná,VOTOS EM BRANCO,81325,Nulos e Brancos 2014 Turno 2,2014,2
-Santa Catarina,VOTOS EM BRANCO,50922,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Sul,VOTOS EM BRANCO,146565,Nulos e Brancos 2014 Turno 2,2014,2
-M. G. do Sul,VOTOS EM BRANCO,15633,Nulos e Brancos 2014 Turno 2,2014,2
-Mato Grosso,VOTOS EM BRANCO,14723,Nulos e Brancos 2014 Turno 2,2014,2
-Goiás,VOTOS EM BRANCO,56025,Nulos e Brancos 2014 Turno 2,2014,2
-Distrito Federal,VOTOS EM BRANCO,29137,Nulos e Brancos 2014 Turno 2,2014,2
-Rondônia,VOTOS NULOS,35810,Nulos e Brancos 2014 Turno 2,2014,2
-Acre,VOTOS NULOS,8227,Nulos e Brancos 2014 Turno 2,2014,2
-Amazonas,VOTOS NULOS,106241,Nulos e Brancos 2014 Turno 2,2014,2
-Roraima,VOTOS NULOS,11153,Nulos e Brancos 2014 Turno 2,2014,2
-Pará,VOTOS NULOS,171090,Nulos e Brancos 2014 Turno 2,2014,2
-Amapá,VOTOS NULOS,15820,Nulos e Brancos 2014 Turno 2,2014,2
-Tocantins,VOTOS NULOS,22640,Nulos e Brancos 2014 Turno 2,2014,2
-Maranhão,VOTOS NULOS,87579,Nulos e Brancos 2014 Turno 2,2014,2
-Piauí,VOTOS NULOS,61334,Nulos e Brancos 2014 Turno 2,2014,2
-Ceará,VOTOS NULOS,246851,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Norte,VOTOS NULOS,163320,Nulos e Brancos 2014 Turno 2,2014,2
-Paraíba,VOTOS NULOS,132050,Nulos e Brancos 2014 Turno 2,2014,2
-Pernambuco,VOTOS NULOS,225812,Nulos e Brancos 2014 Turno 2,2014,2
-Alagoas,VOTOS NULOS,63293,Nulos e Brancos 2014 Turno 2,2014,2
-Sergipe,VOTOS NULOS,50841,Nulos e Brancos 2014 Turno 2,2014,2
-Bahia,VOTOS NULOS,333948,Nulos e Brancos 2014 Turno 2,2014,2
-Minas Gerais,VOTOS NULOS,427782,Nulos e Brancos 2014 Turno 2,2014,2
-Espirito Santo,VOTOS NULOS,63384,Nulos e Brancos 2014 Turno 2,2014,2
-Rio de Janeiro ,VOTOS NULOS,990320,Nulos e Brancos 2014 Turno 2,2014,2
-São Paulo,VOTOS NULOS,1136874,Nulos e Brancos 2014 Turno 2,2014,2
-Paraná,VOTOS NULOS,157481,Nulos e Brancos 2014 Turno 2,2014,2
-Santa Catarina,VOTOS NULOS,115036,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Sul,VOTOS NULOS,263918,Nulos e Brancos 2014 Turno 2,2014,2
-M. G. do Sul,VOTOS NULOS,28479,Nulos e Brancos 2014 Turno 2,2014,2
-Mato Grosso,VOTOS NULOS,34872,Nulos e Brancos 2014 Turno 2,2014,2
-Goiás,VOTOS NULOS,157735,Nulos e Brancos 2014 Turno 2,2014,2
-Distrito Federal,VOTOS NULOS,103368,Nulos e Brancos 2014 Turno 2,2014,2
-Rondônia,VOTOS NOS CANDIDATOS,806404,Nulos e Brancos 2014 Turno 2,2014,2
-Acre,VOTOS NOS CANDIDATOS,382452,Nulos e Brancos 2014 Turno 2,2014,2
-Amazonas,VOTOS NOS CANDIDATOS,1588900,Nulos e Brancos 2014 Turno 2,2014,2
-Roraima,VOTOS NOS CANDIDATOS,236806,Nulos e Brancos 2014 Turno 2,2014,2
-Pará,VOTOS NOS CANDIDATOS,3664299,Nulos e Brancos 2014 Turno 2,2014,2
-Amapá,VOTOS NOS CANDIDATOS,370078,Nulos e Brancos 2014 Turno 2,2014,2
-Tocantins,VOTOS NOS CANDIDATOS,720510,Nulos e Brancos 2014 Turno 2,2014,2
-Maranhão,VOTOS NOS CANDIDATOS,3143279,Nulos e Brancos 2014 Turno 2,2014,2
-Piauí,VOTOS NOS CANDIDATOS,1768980,Nulos e Brancos 2014 Turno 2,2014,2
-Ceará,VOTOS NOS CANDIDATOS,4589321,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Norte,VOTOS NOS CANDIDATOS,1717587,Nulos e Brancos 2014 Turno 2,2014,2
-Paraíba,VOTOS NOS CANDIDATOS,2148904,Nulos e Brancos 2014 Turno 2,2014,2
-Pernambuco,VOTOS NOS CANDIDATOS,4897431,Nulos e Brancos 2014 Turno 2,2014,2
-Alagoas,VOTOS NOS CANDIDATOS,1515298,Nulos e Brancos 2014 Turno 2,2014,2
-Sergipe,VOTOS NOS CANDIDATOS,1152475,Nulos e Brancos 2014 Turno 2,2014,2
-Bahia,VOTOS NOS CANDIDATOS,7211150,Nulos e Brancos 2014 Turno 2,2014,2
-Minas Gerais,VOTOS NOS CANDIDATOS,11408243,Nulos e Brancos 2014 Turno 2,2014,2
-Espirito Santo,VOTOS NOS CANDIDATOS,1975973,Nulos e Brancos 2014 Turno 2,2014,2
-Rio de Janeiro ,VOTOS NOS CANDIDATOS,8169271,Nulos e Brancos 2014 Turno 2,2014,2
-São Paulo,VOTOS NOS CANDIDATOS,23784672,Nulos e Brancos 2014 Turno 2,2014,2
-Paraná,VOTOS NOS CANDIDATOS,6173765,Nulos e Brancos 2014 Turno 2,2014,2
-Santa Catarina,VOTOS NOS CANDIDATOS,3822887,Nulos e Brancos 2014 Turno 2,2014,2
-R. G. do Sul,VOTOS NOS CANDIDATOS,6449815,Nulos e Brancos 2014 Turno 2,2014,2
-M. G. do Sul,VOTOS NOS CANDIDATOS,1353068,Nulos e Brancos 2014 Turno 2,2014,2
-Mato Grosso,VOTOS NOS CANDIDATOS,1582229,Nulos e Brancos 2014 Turno 2,2014,2
-Goiás,VOTOS NOS CANDIDATOS,3183745,Nulos e Brancos 2014 Turno 2,2014,2
-Distrito Federal,VOTOS NOS CANDIDATOS,1523856,Nulos e Brancos 2014 Turno 2,2014,2
+Rondônia,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),345167,Presidente,2014,1
+Acre,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),111610,Presidente,2014,1
+Amazonas,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),915030,Presidente,2014,1
+Roraima,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),82857,Presidente,2014,1
+Pará,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2040696,Presidente,2014,1
+Amapá,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),198939,Presidente,2014,1
+Tocantins,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),368348,Presidente,2014,1
+Maranhão,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2187668,Presidente,2014,1
+Piauí,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1235203,Presidente,2014,1
+Ceará,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),3087115,Presidente,2014,1
+R. G. do Norte,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),999452,Presidente,2014,1
+Paraíba,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1166632,Presidente,2014,1
+Pernambuco,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2126491,Presidente,2014,1
+Alagoas,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),703674,Presidente,2014,1
+Sergipe,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),601578,Presidente,2014,1
+Bahia,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),4292325,Presidente,2014,1
+Minas Gerais,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),4829513,Presidente,2014,1
+Espirito Santo,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),653469,Presidente,2014,1
+Rio de Janeiro ,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2970486,Presidente,2014,1
+São Paulo,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),5927503,Presidente,2014,1
+Paraná,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1972761,Presidente,2014,1
+Santa Catarina,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1140432,Presidente,2014,1
+R. G. do Sul,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),2751098,Presidente,2014,1
+M. G. do Sul,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),506951,Presidente,2014,1
+Mato Grosso,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),616265,Presidente,2014,1
+Goiás,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),1035673,Presidente,2014,1
+Distrito Federal,Dilma Rousseff PT (PT / PMDB / PSD / PP / PR / PROS / PDT / PC do B / PRB),362511,Presidente,2014,1
