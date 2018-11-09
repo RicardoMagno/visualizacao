@@ -1,0 +1,5 @@
+data<-read.csv("/home/ricardomnf/enade-vis/data/enade_2017_ufcg.csv")
+
+resultado<-select(data,QE_I27,QE_I28,QE_I29,QE_I30,QE_I31,QE_I32,QE_I33,QE_I34,QE_I35,QE_I36,QE_I37,QE_I38,QE_I39,QE_I40,QE_I41,QE_I42,QE_I43,QE_I44,QE_I45,QE_I46,QE_I47,QE_I48,QE_I49,QE_I50,QE_I51,QE_I52,QE_I53,QE_I54,QE_I55,QE_I56,QE_I57,QE_I58,QE_I59,QE_I60,QE_I61,QE_I62,QE_I63,QE_I64,QE_I65,QE_I66,QE_I67,QE_I68,QE_I23,NOME_CURSO,QE_I25,QE_I14)
+
+resultado%>%write_csv(path="selecao.csv")
